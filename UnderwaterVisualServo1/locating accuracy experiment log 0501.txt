@@ -1,0 +1,5504 @@
+[WARNING] Default log path is applied (..\WorkSpace\log.txt)!
+[WARNING] Default log path is applied (..\WorkSpace\)!
+[3 x 3]
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+0
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+1
+1 markers detected!
+-2.1728 -1.80223 -0.318017
+0.011187 0.0013478 0.207851
+Detected Position (px): 331.25, 240.75
+Marked Position (px): 0, 0
+Time (ms): 2710
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+2
+1 markers detected!
+-2.15184 -1.82605 -0.288828
+0.0129478 -0.00316858 0.202344
+Detected Position (px): 334.25, 234.25
+Marked Position (px): 334.4, 235.2
+Time (ms): 2725
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+3
+1 markers detected!
+-2.2033 -1.89837 -0.195346
+0.0165195 -0.00811364 0.192899
+Detected Position (px): 340.5, 226.75
+Marked Position (px): 341.5, 227.25
+Time (ms): 2761
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+4
+1 markers detected!
+-2.17985 -1.91487 -0.216075
+0.0186528 -0.00972192 0.192356
+Detected Position (px): 343.75, 224.25
+Marked Position (px): 344.5, 225
+Time (ms): 2810
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+5
+1 markers detected!
+-2.1617 -1.88899 -0.157341
+0.019572 -0.0118366 0.189253
+Detected Position (px): 345.75, 220.75
+Marked Position (px): 347.182, 221.727
+Time (ms): 2856
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+6
+1 markers detected!
+-2.18999 -1.9394 -0.150737
+0.0195803 -0.0123735 0.184042
+Detected Position (px): 346.5, 219.5
+Marked Position (px): 347.667, 219.667
+Time (ms): 2905
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+7
+1 markers detected!
+-2.1371 -1.90216 -0.134398
+0.0188792 -0.0125708 0.181415
+Detected Position (px): 346, 218.75
+Marked Position (px): 347.333, 219.111
+Time (ms): 2953
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+9
+2 markers detected!
+-2.19233 -1.94654 -0.108749
+0.0178233 -0.0126046 0.178019
+Detected Position (px): 344.75, 218.5
+Marked Position (px): 346.545, 218.636
+Time (ms): 3001
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+10
+1 markers detected!
+-2.15588 -1.89767 -0.134272
+0.01739 -0.0124679 0.17575
+Detected Position (px): 344.5, 218.25
+Marked Position (px): 345.778, 218.667
+Time (ms): 3072
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+11
+1 markers detected!
+-2.15099 -1.89201 -0.110721
+0.0168716 -0.0119274 0.17244
+Detected Position (px): 344.25, 218.75
+Marked Position (px): 349, 219
+Time (ms): 3115
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+12
+1 markers detected!
+-2.16699 -1.90296 -0.070791
+0.016818 -0.011525 0.172095
+Detected Position (px): 344.25, 219.5
+Marked Position (px): 345.5, 219.8
+Time (ms): 3160
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+13
+1 markers detected!
+-2.1763 -1.89499 -0.126012
+0.0165712 -0.0112061 0.17039
+Detected Position (px): 344, 219.75
+Marked Position (px): 345.5, 220.3
+Time (ms): 3208
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+14
+1 markers detected!
+-2.15194 -1.87116 -0.172551
+0.0160875 -0.0103827 0.168377
+Detected Position (px): 343.5, 220.75
+Marked Position (px): 344.727, 221.182
+Time (ms): 3256
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+15
+1 markers detected!
+-2.18031 -1.90263 -0.120917
+0.0160472 -0.0101832 0.167989
+Detected Position (px): 343.5, 221.25
+Marked Position (px): 345.1, 221.5
+Time (ms): 3305
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+16
+1 markers detected!
+-2.1584 -1.86974 -0.133269
+0.0156784 -0.0101241 0.166054
+Detected Position (px): 343.25, 221
+Marked Position (px): 345, 221.1
+Time (ms): 3366
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+17
+1 markers detected!
+-2.18654 -1.90079 -0.0668645
+0.0154557 -0.010893 0.166959
+Detected Position (px): 342.75, 220
+Marked Position (px): 344.545, 220.636
+Time (ms): 3401
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+18
+1 markers detected!
+-2.22034 -1.91681 -0.0779798
+0.0156811 -0.0113851 0.16706
+Detected Position (px): 343, 219.25
+Marked Position (px): 344.75, 219.75
+Time (ms): 3465
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+19
+1 markers detected!
+-2.15979 -1.83953 -0.123942
+0.0153998 -0.0114493 0.164943
+Detected Position (px): 343, 218.5
+Marked Position (px): 344.154, 218.692
+Time (ms): 3516
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+20
+1 markers detected!
+-2.21288 -1.87733 -0.0985352
+0.0154266 -0.0121206 0.164499
+Detected Position (px): 343, 217.5
+Marked Position (px): 344.5, 217.6
+Time (ms): 3562
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+21
+1 markers detected!
+-2.20493 -1.87767 -0.120475
+0.0161232 -0.0120908 0.162675
+Detected Position (px): 344.5, 217.25
+Marked Position (px): 346.333, 217.5
+Time (ms): 3620
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+22
+1 markers detected!
+-2.16908 -1.823 -0.110952
+0.01739 -0.011819 0.162228
+Detected Position (px): 347, 217.5
+Marked Position (px): 348.909, 218.364
+Time (ms): 3668
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+23
+1 markers detected!
+-2.15484 -1.81173 -0.122047
+0.019102 -0.0111014 0.162475
+Detected Position (px): 350, 218.75
+Marked Position (px): 352.154, 219.231
+Time (ms): 3710
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+24
+1 markers detected!
+-2.1622 -1.81596 -0.128022
+0.0213502 -0.0110535 0.165422
+Detected Position (px): 353.25, 219.25
+Marked Position (px): 355.364, 219.636
+Time (ms): 3752
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+25
+1 markers detected!
+-2.19345 -1.85092 -0.0820565
+0.0240315 -0.0112893 0.166838
+Detected Position (px): 357.5, 219.25
+Marked Position (px): 359.5, 220
+Time (ms): 3800
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+26
+1 markers detected!
+-2.15578 -1.81448 -0.151295
+0.027025 -0.0113927 0.168086
+Detected Position (px): 362.25, 219
+Marked Position (px): 363.6, 220
+Time (ms): 3870
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+27
+1 markers detected!
+-2.22539 -1.88984 -0.128643
+0.0304409 -0.0124544 0.171604
+Detected Position (px): 366.75, 218
+Marked Position (px): 367.9, 218.5
+Time (ms): 3914
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+28
+1 markers detected!
+-2.20709 -1.87475 -0.184946
+0.0348288 -0.0150926 0.176733
+Detected Position (px): 372.25, 214.25
+Marked Position (px): 372.727, 215.636
+Time (ms): 3962
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+30
+2 markers detected!
+2.32208 2.50312 -1.5188
+0.101058 0.20256 0.954005
+Detected Position (px): 346.25, 301.5
+Marked Position (px): 0, 0
+Time (ms): 4009
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+31
+1 markers detected!
+-2.23028 -1.88201 -0.254864
+0.0452959 -0.0201574 0.186877
+Detected Position (px): 384.75, 208
+Marked Position (px): 385.5, 209.5
+Time (ms): 4058
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+32
+1 markers detected!
+-2.14332 -1.79676 -0.271659
+0.052256 -0.0241285 0.194357
+Detected Position (px): 392.25, 203.25
+Marked Position (px): 392, 204
+Time (ms): 4111
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+33
+1 markers detected!
+-2.19541 -1.87412 -0.251086
+0.0591085 -0.0295497 0.201467
+Detected Position (px): 398.75, 197.25
+Marked Position (px): 0, 0
+Time (ms): 4153
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+34
+1 markers detected!
+-2.24164 -1.92316 -0.200974
+0.0647295 -0.0343708 0.204101
+Detected Position (px): 405, 191.5
+Marked Position (px): 404, 193
+Time (ms): 4216
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+35
+1 markers detected!
+-2.16262 -1.8561 -0.178375
+0.0703963 -0.0378533 0.208108
+Detected Position (px): 410.75, 187.75
+Marked Position (px): 0, 0
+Time (ms): 4265
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+36
+1 markers detected!
+-2.14365 -1.8507 -0.253052
+0.0741956 -0.0406792 0.20789
+Detected Position (px): 415.5, 184
+Marked Position (px): 416.5, 184.5
+Time (ms): 4312
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+37
+1 markers detected!
+-2.0877 -1.8206 -0.306145
+0.0773709 -0.0432431 0.209389
+Detected Position (px): 418.75, 181
+Marked Position (px): 420.5, 181.5
+Time (ms): 4363
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+38
+1 markers detected!
+-2.05457 -1.84147 -0.225472
+0.0825752 -0.0483895 0.217194
+Detected Position (px): 421.5, 176.75
+Marked Position (px): 0, 0
+Time (ms): 4411
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+39
+1 markers detected!
+-2.0487 -1.84425 -0.194866
+0.0846155 -0.0527959 0.219398
+Detected Position (px): 422.75, 172
+Marked Position (px): 424, 173
+Time (ms): 4457
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+40
+1 markers detected!
+-2.06759 -1.90793 -0.161795
+0.0854915 -0.0568696 0.22055
+Detected Position (px): 423, 167.5
+Marked Position (px): 424.5, 168.5
+Time (ms): 4504
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+41
+1 markers detected!
+-2.05487 -1.91401 -0.100577
+0.0868631 -0.0603522 0.22333
+Detected Position (px): 423.25, 164.25
+Marked Position (px): 427, 165
+Time (ms): 4553
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+42
+1 markers detected!
+-2.07727 -1.96115 -0.103575
+0.0856169 -0.061427 0.220241
+Detected Position (px): 423, 162
+Marked Position (px): 424.5, 162
+Time (ms): 4616
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+43
+1 markers detected!
+-2.08152 -1.96227 -0.0530291
+0.0843 -0.061959 0.218423
+Detected Position (px): 422.25, 160.75
+Marked Position (px): 424, 160.5
+Time (ms): 4669
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+44
+1 markers detected!
+-2.08211 -1.96211 -0.0597905
+0.0835132 -0.0627427 0.218464
+Detected Position (px): 421.25, 159.75
+Marked Position (px): 422.5, 159.5
+Time (ms): 4718
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+45
+1 markers detected!
+-2.06367 -1.98236 0.0221225
+0.0825048 -0.0650971 0.220244
+Detected Position (px): 419.25, 157.5
+Marked Position (px): 422, 158.25
+Time (ms): 4770
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+46
+1 markers detected!
+-2.1485 -2.02255 -0.00497821
+0.0788382 -0.0660279 0.215897
+Detected Position (px): 416.5, 154.75
+Marked Position (px): 418.8, 154.6
+Time (ms): 4818
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+47
+1 markers detected!
+-2.12111 -2.01874 0.0248463
+0.0761458 -0.0682774 0.215721
+Detected Position (px): 413.25, 151.75
+Marked Position (px): 415.8, 151.8
+Time (ms): 4856
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+48
+1 markers detected!
+-2.07492 -1.93796 -0.043769
+0.0724543 -0.0695676 0.213128
+Detected Position (px): 409.75, 148.75
+Marked Position (px): 412, 148.75
+Time (ms): 4905
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+49
+1 markers detected!
+-2.16916 -1.99648 -0.0684352
+0.0679604 -0.0698056 0.207872
+Detected Position (px): 406, 146.25
+Marked Position (px): 408.667, 146.333
+Time (ms): 4953
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+50
+1 markers detected!
+-2.1596 -2.03386 0.0650787
+0.0635275 -0.0707216 0.203686
+Detected Position (px): 402, 143.25
+Marked Position (px): 404.5, 143.5
+Time (ms): 5026
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+51
+1 markers detected!
+-1.8641 -1.69543 -0.155429
+0.0611548 -0.0725373 0.204257
+Detected Position (px): 399, 140
+Marked Position (px): 401.2, 140.4
+Time (ms): 5076
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+52
+1 markers detected!
+-2.19961 -2.06889 0.041149
+0.0576108 -0.0744089 0.199944
+Detected Position (px): 395.25, 136.5
+Marked Position (px): 398.5, 137
+Time (ms): 5123
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+53
+1 markers detected!
+-2.14323 -2.0372 0.0526072
+0.0542963 -0.0765914 0.198628
+Detected Position (px): 391.25, 132.75
+Marked Position (px): 394, 133.167
+Time (ms): 5172
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+54
+1 markers detected!
+-2.1271 -2.02258 0.0690439
+0.0508476 -0.0779403 0.19811
+Detected Position (px): 386.75, 130.5
+Marked Position (px): 389.714, 130.429
+Time (ms): 5219
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+55
+1 markers detected!
+-2.16207 -2.03088 0.0705447
+0.0457283 -0.0781522 0.194695
+Detected Position (px): 380.75, 128.25
+Marked Position (px): 383.286, 127.714
+Time (ms): 5256
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+56
+1 markers detected!
+-2.14333 -1.9808 -0.0461932
+0.0413854 -0.0802965 0.195747
+Detected Position (px): 374.25, 125.5
+Marked Position (px): 377, 125.5
+Time (ms): 5307
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+57
+1 markers detected!
+-2.1559 -1.98393 -0.0329449
+0.0354996 -0.0810152 0.193805
+Detected Position (px): 366.5, 123.25
+Marked Position (px): 369.714, 123
+Time (ms): 5352
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+58
+1 markers detected!
+-2.17236 -2.01471 0.0548024
+0.0298026 -0.0812912 0.191465
+Detected Position (px): 359, 121.5
+Marked Position (px): 362, 121
+Time (ms): 5418
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+59
+1 markers detected!
+-2.18679 -1.97858 0.0098267
+0.0245705 -0.0818728 0.191139
+Detected Position (px): 351.5, 120.25
+Marked Position (px): 354.2, 119.4
+Time (ms): 5468
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+60
+1 markers detected!
+-2.17596 -1.97954 -0.00208795
+0.0186362 -0.0829992 0.192432
+Detected Position (px): 342.75, 119.25
+Marked Position (px): 347, 119
+Time (ms): 5512
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+61
+1 markers detected!
+-2.12944 -1.93115 0.0356431
+0.012065 -0.0832413 0.192121
+Detected Position (px): 333.5, 118.5
+Marked Position (px): 336.5, 118
+Time (ms): 5564
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+62
+1 markers detected!
+-2.13192 -1.91284 -0.00737944
+0.00540111 -0.0838114 0.194194
+Detected Position (px): 323.75, 118.75
+Marked Position (px): 326, 118
+Time (ms): 5613
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+63
+1 markers detected!
+-2.18688 -1.94166 -0.01731
+-0.00220514 -0.084062 0.194184
+Detected Position (px): 312.75, 118.5
+Marked Position (px): 0, 0
+Time (ms): 5662
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+63
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+64
+1 markers detected!
+-2.13906 -1.88667 0.0539874
+-0.0173182 -0.0851424 0.195161
+Detected Position (px): 291.5, 117.75
+Marked Position (px): 0, 0
+Time (ms): 5773
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+65
+1 markers detected!
+-2.12552 -1.87208 0.0829798
+-0.0239823 -0.0852509 0.1942
+Detected Position (px): 282, 117.25
+Marked Position (px): 285, 116.5
+Time (ms): 5817
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+66
+1 markers detected!
+-2.07598 -1.83603 0.0872971
+-0.0300886 -0.0850728 0.193138
+Detected Position (px): 273.25, 117
+Marked Position (px): 275.714, 116.429
+Time (ms): 5871
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+67
+1 markers detected!
+-2.11687 -1.85041 0.0740493
+-0.0350461 -0.0855737 0.193299
+Detected Position (px): 266.25, 116.75
+Marked Position (px): 264, 118
+Time (ms): 5913
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+68
+1 markers detected!
+-2.11134 -1.83843 0.112408
+-0.03946 -0.0848306 0.192022
+Detected Position (px): 259.75, 117.25
+Marked Position (px): 260.5, 116.9
+Time (ms): 5962
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+69
+1 markers detected!
+-2.11048 -1.83105 0.12221
+-0.0442106 -0.0850617 0.192488
+Detected Position (px): 253.25, 117.5
+Marked Position (px): 253.714, 117.571
+Time (ms): 6010
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+70
+1 markers detected!
+-2.12247 -1.81733 0.128275
+-0.0480648 -0.0836942 0.191489
+Detected Position (px): 247.5, 119
+Marked Position (px): 247.714, 118.571
+Time (ms): 6060
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+71
+1 markers detected!
+-2.10883 -1.81027 0.125772
+-0.0520738 -0.0832363 0.191742
+Detected Position (px): 242, 120
+Marked Position (px): 241.5, 120
+Time (ms): 6105
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+72
+1 markers detected!
+-2.08445 -1.80192 0.171028
+-0.0557176 -0.0817243 0.189878
+Detected Position (px): 236.25, 121.25
+Marked Position (px): 236.5, 121.2
+Time (ms): 6171
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+73
+1 markers detected!
+-2.11409 -1.80689 0.176517
+-0.0588827 -0.0809716 0.189754
+Detected Position (px): 231.75, 122.5
+Marked Position (px): 231.5, 122.5
+Time (ms): 6222
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+74
+1 markers detected!
+-2.06528 -1.78457 0.158323
+-0.0619258 -0.0801135 0.189687
+Detected Position (px): 227.5, 123.75
+Marked Position (px): 227.333, 123.778
+Time (ms): 6266
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+75
+1 markers detected!
+-2.07764 -1.80472 0.180174
+-0.064166 -0.0792214 0.188824
+Detected Position (px): 224, 124.75
+Marked Position (px): 224.2, 124.6
+Time (ms): 6317
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+76
+1 markers detected!
+-2.08547 -1.78432 0.134543
+-0.0658151 -0.0779443 0.186785
+Detected Position (px): 220.75, 125.5
+Marked Position (px): 220.833, 125.667
+Time (ms): 6360
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+77
+1 markers detected!
+-2.08428 -1.79049 0.147386
+-0.0680454 -0.0772633 0.186493
+Detected Position (px): 217.5, 126.5
+Marked Position (px): 217.714, 126.571
+Time (ms): 6410
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+78
+1 markers detected!
+-2.10027 -1.82125 0.143425
+-0.0689137 -0.0762387 0.184962
+Detected Position (px): 215.5, 127.25
+Marked Position (px): 215.286, 127.143
+Time (ms): 6461
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+79
+1 markers detected!
+-2.11643 -1.85581 0.126473
+-0.0697209 -0.0754256 0.185452
+Detected Position (px): 214.5, 128.75
+Marked Position (px): 214.8, 128.4
+Time (ms): 6511
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+80
+1 markers detected!
+-2.14038 -1.8878 0.0823549
+-0.0700312 -0.0746341 0.18613
+Detected Position (px): 214.25, 130.25
+Marked Position (px): 215.125, 130
+Time (ms): 6580
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+81
+1 markers detected!
+-2.13225 -1.89612 0.0647931
+-0.0691234 -0.0717644 0.182987
+Detected Position (px): 213.75, 132.5
+Marked Position (px): 213.286, 132.429
+Time (ms): 6623
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+82
+1 markers detected!
+-2.24335 -1.86854 0.0280618
+-0.0713525 -0.070269 0.182139
+Detected Position (px): 210, 134.5
+Marked Position (px): 210, 134.375
+Time (ms): 6672
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+83
+1 markers detected!
+-2.26845 -1.90152 -0.0237622
+-0.0732609 -0.0695486 0.185286
+Detected Position (px): 208.75, 137.25
+Marked Position (px): 211, 138
+Time (ms): 6713
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+84
+1 markers detected!
+-2.32459 -1.92325 -0.0323366
+-0.073396 -0.0664307 0.185437
+Detected Position (px): 208.25, 141.75
+Marked Position (px): 208.333, 142.833
+Time (ms): 6760
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+1 markers detected!
+-2.32278 -1.90839 -0.011858
+-0.0740824 -0.0627169 0.181495
+Detected Position (px): 205, 145.25
+Marked Position (px): 205.333, 145.778
+Time (ms): 6813
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+85
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+86
+1 markers detected!
+1.38931 1.69191 0.517657
+0.0239151 0.204098 0.921747
+Detected Position (px): 323, 304.25
+Marked Position (px): 0, 0
+Time (ms): 7423
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+86
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+86
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+86
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+88
+2 markers detected!
+2.12192 1.69411 1.0612
+-0.0792836 -0.0238382 0.145587
+Detected Position (px): 167.25, 194.75
+Marked Position (px): 174, 193
+Time (ms): 7610
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+89
+1 markers detected!
+2.16055 1.71284 0.98257
+-0.0794413 -0.0244926 0.145864
+Detected Position (px): 167.5, 193.75
+Marked Position (px): 168.2, 194.267
+Time (ms): 7656
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+90
+1 markers detected!
+2.34285 1.80756 0.438992
+-0.0788364 -0.0253747 0.144453
+Detected Position (px): 168.75, 192.5
+Marked Position (px): 169.529, 193.118
+Time (ms): 7730
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+91
+1 markers detected!
+2.37203 1.81652 0.290519
+-0.0773852 -0.0249327 0.141055
+Detected Position (px): 168.5, 192.5
+Marked Position (px): 168.692, 193
+Time (ms): 7772
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+93
+2 markers detected!
+2.52424 2.41307 -1.44064
+0.0139867 0.208914 0.921465
+Detected Position (px): 320, 305.75
+Marked Position (px): 0, 0
+Time (ms): 7820
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+95
+2 markers detected!
+2.38169 1.82634 0.32706
+-0.0770943 -0.0237972 0.138309
+Detected Position (px): 166.5, 193.75
+Marked Position (px): 166.667, 194.133
+Time (ms): 7866
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+96
+1 markers detected!
+2.37804 1.83806 0.406974
+-0.077677 -0.023792 0.136961
+Detected Position (px): 164.25, 193.25
+Marked Position (px): 164.333, 193.333
+Time (ms): 7912
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+97
+1 markers detected!
+2.41065 1.84567 0.38463
+-0.0782024 -0.0234868 0.136695
+Detected Position (px): 163.25, 193.75
+Marked Position (px): 163.235, 194.176
+Time (ms): 7962
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+98
+1 markers detected!
+2.45806 1.87103 0.306727
+-0.0774025 -0.0211507 0.135153
+Detected Position (px): 163.25, 197.75
+Marked Position (px): 163.947, 198.526
+Time (ms): 8009
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+99
+1 markers detected!
+2.44173 1.86668 0.307717
+-0.0766825 -0.0178967 0.134703
+Detected Position (px): 163.75, 204
+Marked Position (px): 167, 204
+Time (ms): 8057
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+100
+1 markers detected!
+2.43231 1.85799 0.399932
+-0.0765919 -0.0153114 0.135209
+Detected Position (px): 164, 209
+Marked Position (px): 164.062, 210
+Time (ms): 8123
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+101
+1 markers detected!
+2.47155 1.85755 0.344504
+-0.0754973 -0.0120208 0.13402
+Detected Position (px): 164.75, 215.25
+Marked Position (px): 164.5, 216.375
+Time (ms): 8170
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+102
+1 markers detected!
+2.4903 1.87956 0.365028
+-0.0744192 -0.0085251 0.13406
+Detected Position (px): 166.5, 222
+Marked Position (px): 166.375, 223.312
+Time (ms): 8220
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+103
+1 markers detected!
+2.51749 1.87501 0.330635
+-0.0732907 -0.00490136 0.134417
+Detected Position (px): 168.75, 229.25
+Marked Position (px): 169.429, 231
+Time (ms): 8271
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+105
+2 markers detected!
+1.43539 1.7035 0.523573
+0.0217295 0.221491 0.965761
+Detected Position (px): 322, 306.5
+Marked Position (px): 0, 0
+Time (ms): 8313
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+106
+1 markers detected!
+2.52012 1.82137 0.304693
+-0.0716273 0.0021402 0.136641
+Detected Position (px): 173.5, 243.5
+Marked Position (px): 173.4, 245.8
+Time (ms): 8364
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+107
+1 markers detected!
+-2.53085 -1.83523 -0.331597
+-0.0713292 0.00610529 0.136609
+Detected Position (px): 174, 251.25
+Marked Position (px): 174.25, 253.938
+Time (ms): 8408
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+108
+1 markers detected!
+2.54148 1.81231 0.344675
+-0.0716104 0.00989451 0.138552
+Detected Position (px): 175.25, 258.5
+Marked Position (px): 175.385, 261.231
+Time (ms): 8476
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+109
+1 markers detected!
+-2.56891 -1.808 -0.349388
+-0.0719932 0.0134485 0.140108
+Detected Position (px): 176, 265.25
+Marked Position (px): 175.5, 268
+Time (ms): 8520
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+110
+1 markers detected!
+-2.61039 -1.76577 -0.259432
+-0.0727469 0.0183268 0.141408
+Detected Position (px): 176.25, 274.5
+Marked Position (px): 176, 278.333
+Time (ms): 8573
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+111
+1 markers detected!
+2.59585 1.74465 0.284663
+-0.0733505 0.0231866 0.142599
+Detected Position (px): 176.5, 283.25
+Marked Position (px): 175.636, 285.727
+Time (ms): 8619
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+112
+1 markers detected!
+-2.53261 -1.69342 -0.257981
+-0.0720354 0.0269998 0.140933
+Detected Position (px): 177.75, 290.75
+Marked Position (px): 178.818, 293.455
+Time (ms): 8669
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+113
+1 markers detected!
+-2.51046 -1.70804 -0.170916
+-0.070321 0.0307887 0.141354
+Detected Position (px): 181.5, 298
+Marked Position (px): 182.273, 300.909
+Time (ms): 8713
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+114
+1 markers detected!
+-2.45851 -1.72024 -0.15928
+-0.0676751 0.0333568 0.141311
+Detected Position (px): 186.25, 303
+Marked Position (px): 186.154, 305.231
+Time (ms): 8767
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+115
+1 markers detected!
+-2.40274 -1.75391 -0.0975809
+-0.0663005 0.0359062 0.139991
+Detected Position (px): 188, 308.5
+Marked Position (px): 188.273, 311.909
+Time (ms): 8811
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+116
+1 markers detected!
+-2.37226 -1.7488 -0.126206
+-0.0642067 0.0387559 0.140484
+Detected Position (px): 192.25, 313.75
+Marked Position (px): 192.909, 316.364
+Time (ms): 8881
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+117
+1 markers detected!
+-2.35807 -1.74457 -0.10481
+-0.0617174 0.0409605 0.14028
+Detected Position (px): 196.75, 318.25
+Marked Position (px): 197.2, 321.6
+Time (ms): 8920
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+118
+1 markers detected!
+-2.32794 -1.72206 -0.0727682
+-0.0578977 0.0433333 0.140478
+Detected Position (px): 204, 323
+Marked Position (px): 205.1, 326.1
+Time (ms): 8972
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+119
+1 markers detected!
+-2.3047 -1.71784 -0.050595
+-0.0531821 0.0457994 0.141162
+Detected Position (px): 213.25, 327.75
+Marked Position (px): 215, 331
+Time (ms): 9018
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+120
+1 markers detected!
+-2.2942 -1.75499 -0.0586914
+-0.0479834 0.0466716 0.142341
+Detected Position (px): 223.5, 329.25
+Marked Position (px): 225.286, 333.714
+Time (ms): 9069
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+121
+1 markers detected!
+-2.29735 -1.78575 -0.091607
+-0.0436762 0.0478993 0.144375
+Detected Position (px): 232.5, 330.75
+Marked Position (px): 234.5, 334.5
+Time (ms): 9119
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+122
+1 markers detected!
+-2.29621 -1.75635 -0.0798319
+-0.0400176 0.049278 0.146254
+Detected Position (px): 240.25, 332.5
+Marked Position (px): 241.714, 337.286
+Time (ms): 9163
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+123
+1 markers detected!
+-2.29417 -1.77077 -0.0878883
+-0.0361743 0.0520047 0.14875
+Detected Position (px): 248.5, 336.25
+Marked Position (px): 250.778, 340.778
+Time (ms): 9209
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+124
+1 markers detected!
+-2.30077 -1.79136 -0.133863
+-0.0321647 0.0540305 0.151417
+Detected Position (px): 256.75, 338.5
+Marked Position (px): 257.6, 343.1
+Time (ms): 9281
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+125
+1 markers detected!
+-2.31885 -1.78753 -0.129984
+-0.0286867 0.0549292 0.154489
+Detected Position (px): 264, 338.5
+Marked Position (px): 264.5, 343.2
+Time (ms): 9325
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+126
+1 markers detected!
+-2.32404 -1.77377 -0.148275
+-0.0249611 0.054776 0.156056
+Detected Position (px): 271, 337.5
+Marked Position (px): 271, 342.25
+Time (ms): 9369
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+127
+1 markers detected!
+-2.31417 -1.75706 -0.0686828
+-0.0216414 0.0553032 0.158908
+Detected Position (px): 277.75, 337
+Marked Position (px): 278.2, 341.4
+Time (ms): 9421
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+1 markers detected!
+-2.32434 -1.75704 -0.0639214
+-0.0180385 0.0558501 0.161261
+Detected Position (px): 284.5, 336.75
+Marked Position (px): 284.5, 341.5
+Time (ms): 9466
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+128
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+129
+1 markers detected!
+-1.97241 -1.97311 1.62076
+0.0473162 0.0679917 0.191914
+Detected Position (px): 385.5, 340.5
+Marked Position (px): 373, 321.562
+Time (ms): 10314
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+130
+1 markers detected!
+1.82426 1.79261 -1.3975
+0.0512033 0.0666688 0.193622
+Detected Position (px): 390.25, 337.75
+Marked Position (px): 391.5, 338
+Time (ms): 10365
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+130
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+131
+1 markers detected!
+2.04415 1.73397 -1.31982
+0.05947 0.0635628 0.201945
+Detected Position (px): 398.75, 329.25
+Marked Position (px): 399.5, 329
+Time (ms): 10472
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+132
+1 markers detected!
+2.02038 1.64698 -1.35235
+0.0605456 0.0602719 0.200994
+Detected Position (px): 400.75, 325.25
+Marked Position (px): 0, 0
+Time (ms): 10521
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+133
+1 markers detected!
+2.15171 1.60883 -1.31008
+0.0616617 0.0579843 0.198323
+Detected Position (px): 403.5, 323
+Marked Position (px): 404.5, 323
+Time (ms): 10573
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+134
+1 markers detected!
+2.1386 1.61461 -1.25451
+0.0618761 0.0573952 0.199551
+Detected Position (px): 403.25, 321.75
+Marked Position (px): 404.5, 322.5
+Time (ms): 10622
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+135
+1 markers detected!
+2.1691 1.6394 -1.16665
+0.0627081 0.0554869 0.201134
+Detected Position (px): 403.75, 318.5
+Marked Position (px): 405.286, 318.571
+Time (ms): 10664
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+136
+1 markers detected!
+2.18402 1.63374 -1.08897
+0.0661311 0.0526274 0.203153
+Detected Position (px): 407.5, 313.75
+Marked Position (px): 408.6, 314.8
+Time (ms): 10713
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+137
+1 markers detected!
+2.20731 1.58137 -1.19516
+0.0659884 0.04895 0.197134
+Detected Position (px): 410.25, 310.75
+Marked Position (px): 411.714, 310.571
+Time (ms): 10761
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+138
+1 markers detected!
+2.2326 1.56437 -1.14548
+0.0678775 0.0477246 0.19613
+Detected Position (px): 413.25, 309.25
+Marked Position (px): 414.8, 309.2
+Time (ms): 10826
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+139
+1 markers detected!
+2.23288 1.54525 -1.20562
+0.0686164 0.0483411 0.194044
+Detected Position (px): 415.25, 310.75
+Marked Position (px): 416.5, 311
+Time (ms): 10873
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+140
+1 markers detected!
+2.18308 1.5649 -1.18599
+0.0690504 0.0510056 0.192641
+Detected Position (px): 416.25, 315
+Marked Position (px): 418.2, 315.6
+Time (ms): 10921
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+141
+1 markers detected!
+2.14812 1.55137 -1.22783
+0.0688763 0.0532033 0.190303
+Detected Position (px): 417, 319
+Marked Position (px): 418.6, 319.8
+Time (ms): 10975
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+142
+1 markers detected!
+2.13748 1.55158 -1.22739
+0.0681483 0.0553788 0.186822
+Detected Position (px): 417.5, 323.5
+Marked Position (px): 418.667, 324
+Time (ms): 11023
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+143
+1 markers detected!
+2.06894 1.57409 -1.24291
+0.068314 0.0578424 0.185777
+Detected Position (px): 418, 327.5
+Marked Position (px): 419.125, 328
+Time (ms): 11063
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+144
+1 markers detected!
+2.06772 1.56751 -1.27547
+0.0687279 0.0607726 0.186023
+Detected Position (px): 418.25, 331.5
+Marked Position (px): 420, 332.5
+Time (ms): 11120
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+145
+1 markers detected!
+1.9528 1.58119 -1.26902
+0.0690128 0.0641221 0.182901
+Detected Position (px): 419.75, 337.75
+Marked Position (px): 0, 0
+Time (ms): 11160
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+146
+1 markers detected!
+1.97527 1.58839 -1.28969
+0.0700186 0.0686683 0.182364
+Detected Position (px): 421, 344.25
+Marked Position (px): 422.667, 345.333
+Time (ms): 11226
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+147
+1 markers detected!
+1.89458 1.59474 -1.29133
+0.0715653 0.0732748 0.181976
+Detected Position (px): 422.75, 350.75
+Marked Position (px): 424.5, 352.5
+Time (ms): 11272
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+148
+1 markers detected!
+1.94483 1.6327 -1.27478
+0.074045 0.0778553 0.182167
+Detected Position (px): 425.5, 356.5
+Marked Position (px): 427.286, 357.286
+Time (ms): 11320
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+149
+1 markers detected!
+1.89931 1.6341 -1.29391
+0.0749023 0.0791192 0.179683
+Detected Position (px): 427.75, 359.5
+Marked Position (px): 430.5, 360
+Time (ms): 11371
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+150
+1 markers detected!
+1.92427 1.6468 -1.29672
+0.0789816 0.0815968 0.181006
+Detected Position (px): 432.25, 361.5
+Marked Position (px): 435.125, 361.75
+Time (ms): 11418
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+151
+1 markers detected!
+1.97428 1.66305 -1.3131
+0.0834536 0.0825826 0.181613
+Detected Position (px): 437.75, 361.75
+Marked Position (px): 439.286, 362.143
+Time (ms): 11468
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+152
+1 markers detected!
+1.98107 1.65648 -1.31654
+0.0895156 0.0826654 0.185376
+Detected Position (px): 443.5, 359
+Marked Position (px): 443.286, 360.143
+Time (ms): 11518
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+153
+1 markers detected!
+2.02226 1.68015 -1.30075
+0.0940918 0.0810218 0.186662
+Detected Position (px): 448.75, 355.5
+Marked Position (px): 449.286, 356.286
+Time (ms): 11584
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+154
+1 markers detected!
+2.11161 1.67526 -1.42665
+0.100325 0.0788756 0.190863
+Detected Position (px): 454.5, 349.75
+Marked Position (px): 0, 0
+Time (ms): 11631
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+155
+1 markers detected!
+2.09471 1.66946 -1.38461
+0.103261 0.0742698 0.189705
+Detected Position (px): 459.25, 344
+Marked Position (px): 458.667, 345.333
+Time (ms): 11671
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+156
+1 markers detected!
+-2.26215 -1.78597 1.48707
+0.107088 0.0706661 0.191009
+Detected Position (px): 463.5, 338.25
+Marked Position (px): 464.333, 339.667
+Time (ms): 11727
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+157
+1 markers detected!
+2.13925 1.67321 -1.43062
+0.110707 0.067562 0.192912
+Detected Position (px): 467, 333
+Marked Position (px): 469, 335
+Time (ms): 11772
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+158
+1 markers detected!
+-2.21911 -1.70076 1.44275
+0.114056 0.0624742 0.193324
+Detected Position (px): 471.25, 325.75
+Marked Position (px): 0, 0
+Time (ms): 11815
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+159
+1 markers detected!
+-2.19167 -1.60674 1.38442
+0.116616 0.058034 0.192564
+Detected Position (px): 475.25, 319.75
+Marked Position (px): 476.5, 321.5
+Time (ms): 11872
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+160
+1 markers detected!
+2.22117 1.67337 -1.45215
+0.117404 0.0523107 0.189465
+Detected Position (px): 478.75, 313.25
+Marked Position (px): 478.5, 315
+Time (ms): 11911
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+161
+1 markers detected!
+2.24012 1.69142 -1.48695
+0.120621 0.0489574 0.189875
+Detected Position (px): 482.5, 308.25
+Marked Position (px): 482.333, 309.667
+Time (ms): 11977
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+162
+1 markers detected!
+-2.20558 -1.5944 1.49352
+0.123179 0.0444568 0.18967
+Detected Position (px): 486, 302
+Marked Position (px): 486.5, 304
+Time (ms): 12024
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+163
+1 markers detected!
+-2.16855 -1.57574 1.43702
+0.126201 0.0411253 0.190238
+Detected Position (px): 489.25, 297
+Marked Position (px): 490, 298.5
+Time (ms): 12073
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+164
+1 markers detected!
+-2.16684 -1.55522 1.42174
+0.128613 0.0379222 0.191158
+Detected Position (px): 491.5, 292.25
+Marked Position (px): 492.5, 293.5
+Time (ms): 12129
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+165
+1 markers detected!
+-2.17591 -1.54185 1.36559
+0.131407 0.0353443 0.192436
+Detected Position (px): 493.75, 288.25
+Marked Position (px): 497, 288
+Time (ms): 12173
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+166
+1 markers detected!
+-2.21153 -1.56391 1.34614
+0.132564 0.0314406 0.192355
+Detected Position (px): 495.25, 283
+Marked Position (px): 499, 284
+Time (ms): 12220
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+167
+1 markers detected!
+-2.18755 -1.53198 1.34337
+0.13517 0.0275124 0.195937
+Detected Position (px): 495.75, 277
+Marked Position (px): 499, 279
+Time (ms): 12265
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+1 markers detected!
+-2.22835 -1.51771 1.2446
+0.136619 0.0240338 0.197873
+Detected Position (px): 496, 272
+Marked Position (px): 499, 273
+Time (ms): 12313
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+168
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+169
+1 markers detected!
+0.567838 -3.66264 0.668121
+0.122643 0.194607 0.938613
+Detected Position (px): 353.25, 300
+Marked Position (px): 0, 0
+Time (ms): 12775
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+169
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+169
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+169
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+169
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+170
+1 markers detected!
+-2.07869 -1.35393 0.774212
+0.123042 -0.0270659 0.212689
+Detected Position (px): 472, 205.25
+Marked Position (px): 474, 205
+Time (ms): 13021
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+170
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+171
+1 markers detected!
+-2.0814 -1.34045 0.64407
+0.125057 -0.0299808 0.215811
+Detected Position (px): 472, 202
+Marked Position (px): 472.5, 202
+Time (ms): 13136
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+172
+1 markers detected!
+-2.06901 -1.32647 0.647931
+0.123538 -0.0298973 0.214033
+Detected Position (px): 471.5, 201.75
+Marked Position (px): 472.5, 201.5
+Time (ms): 13178
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+173
+1 markers detected!
+-2.15097 -1.37866 0.567336
+0.124099 -0.0298249 0.216398
+Detected Position (px): 470.5, 202.25
+Marked Position (px): 472.667, 202.333
+Time (ms): 13230
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+173
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+173
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+173
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+1 markers detected!
+-2.13178 -1.44996 0.62318
+0.120273 -0.021147 0.209468
+Detected Position (px): 471, 212.25
+Marked Position (px): 472.667, 212.333
+Time (ms): 13420
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+174
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+175
+1 markers detected!
+-2.02067 -1.25648 0.586295
+0.110148 -0.0480581 0.20828
+Detected Position (px): 459.25, 176.75
+Marked Position (px): 460.667, 176.333
+Time (ms): 14217
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+176
+1 markers detected!
+-2.02036 -1.24988 0.635339
+0.106796 -0.046763 0.20457
+Detected Position (px): 457.75, 177.25
+Marked Position (px): 458.5, 177
+Time (ms): 14281
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+177
+1 markers detected!
+-2.04341 -1.27344 0.560101
+0.105233 -0.0454945 0.203612
+Detected Position (px): 456.5, 178.5
+Marked Position (px): 457.5, 178.333
+Time (ms): 14330
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+178
+1 markers detected!
+-2.08103 -1.3102 0.645292
+0.103108 -0.0444006 0.200847
+Detected Position (px): 455.75, 179.25
+Marked Position (px): 456.5, 179
+Time (ms): 14381
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+179
+1 markers detected!
+-2.13724 -1.37061 0.618607
+0.102494 -0.0431714 0.202119
+Detected Position (px): 454.25, 181.25
+Marked Position (px): 455.5, 181
+Time (ms): 14430
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+180
+1 markers detected!
+-2.18045 -1.35543 0.374456
+0.103007 -0.0422202 0.204022
+Detected Position (px): 453.5, 182.75
+Marked Position (px): 454.5, 182.5
+Time (ms): 14480
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+181
+1 markers detected!
+-2.26648 -1.3767 0.180936
+0.101099 -0.0405006 0.20058
+Detected Position (px): 453, 184
+Marked Position (px): 454.6, 183.8
+Time (ms): 14523
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+182
+1 markers detected!
+-2.27328 -1.42955 0.253856
+0.0992788 -0.0391285 0.197943
+Detected Position (px): 452.5, 185.25
+Marked Position (px): 454.5, 185
+Time (ms): 14569
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+1 markers detected!
+-2.37424 -1.44272 0.157553
+0.0998882 -0.0388683 0.197085
+Detected Position (px): 453.5, 185.5
+Marked Position (px): 455.875, 184.75
+Time (ms): 14619
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+183
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+184
+1 markers detected!
+-2.47243 -1.81948 0.282425
+0.0780052 -0.0244067 0.170293
+Detected Position (px): 441.75, 200.5
+Marked Position (px): 445.222, 200.222
+Time (ms): 15328
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+185
+1 markers detected!
+-2.47622 -1.81813 0.26073
+0.0761934 -0.0256351 0.17071
+Detected Position (px): 438.75, 198.5
+Marked Position (px): 441.333, 198.222
+Time (ms): 15367
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+186
+1 markers detected!
+-2.43224 -1.82331 0.399034
+0.0757017 -0.0271808 0.173493
+Detected Position (px): 436.5, 196.75
+Marked Position (px): 439.333, 196.667
+Time (ms): 15421
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+186
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+187
+1 markers detected!
+-2.39938 -1.83287 0.341985
+0.0760059 -0.0265824 0.177915
+Detected Position (px): 434.25, 198.5
+Marked Position (px): 437.1, 198.7
+Time (ms): 15533
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+187
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+187
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+188
+1 markers detected!
+2.49532 2.03081 -0.224052
+0.078774 -0.0226299 0.18934
+Detected Position (px): 431.5, 206.5
+Marked Position (px): 433.5, 207.5
+Time (ms): 15675
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+189
+1 markers detected!
+2.45716 2.05714 -0.26013
+0.0784305 -0.0200973 0.192863
+Detected Position (px): 429.25, 210.75
+Marked Position (px): 431.286, 211.714
+Time (ms): 15724
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+190
+1 markers detected!
+2.30652 2.02757 -0.0726156
+0.0751257 -0.0183274 0.186603
+Detected Position (px): 427.75, 212.5
+Marked Position (px): 429.333, 214.222
+Time (ms): 15772
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+191
+1 markers detected!
+-2.27946 -1.93547 0.210625
+0.0759472 -0.0181481 0.196376
+Detected Position (px): 424.25, 213.75
+Marked Position (px): 426.5, 213.5
+Time (ms): 15833
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+192
+1 markers detected!
+-2.31834 -1.96334 0.0280449
+0.0742299 -0.0184928 0.197734
+Detected Position (px): 421, 213.25
+Marked Position (px): 422.727, 213.636
+Time (ms): 15885
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+192
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+192
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+193
+1 markers detected!
+2.13358 2.31901 -0.34717
+0.0605307 -0.0157369 0.188705
+Detected Position (px): 406.75, 216.5
+Marked Position (px): 407.875, 216.875
+Time (ms): 16029
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+193
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+194
+1 markers detected!
+2.00089 2.22034 -0.169706
+0.0568927 -0.0171783 0.176426
+Detected Position (px): 406.5, 212.75
+Marked Position (px): 408.5, 214.5
+Time (ms): 16124
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+195
+1 markers detected!
+1.99495 2.21513 -0.304256
+0.0562977 -0.0196878 0.173817
+Detected Position (px): 407, 208.5
+Marked Position (px): 413, 210
+Time (ms): 16172
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+195
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+196
+1 markers detected!
+2.06932 2.29007 -0.248484
+0.0597352 -0.0239931 0.175742
+Detected Position (px): 411.25, 201.75
+Marked Position (px): 413.333, 203.222
+Time (ms): 16286
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+197
+1 markers detected!
+2.04623 2.21143 -0.245208
+0.0580864 -0.0236837 0.166704
+Detected Position (px): 413.25, 200.5
+Marked Position (px): 419, 202
+Time (ms): 16328
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+198
+1 markers detected!
+2.09492 2.27055 -0.177334
+0.0581975 -0.024056 0.170853
+Detected Position (px): 411.25, 200.5
+Marked Position (px): 413.875, 201.375
+Time (ms): 16378
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+199
+1 markers detected!
+-2.11622 -2.22925 0.0587823
+0.0563613 -0.0212907 0.173469
+Detected Position (px): 407.25, 205
+Marked Position (px): 409.1, 205.5
+Time (ms): 16431
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+200
+1 markers detected!
+2.23351 2.30783 -0.0356882
+0.0538395 -0.0188594 0.170087
+Detected Position (px): 405, 208.25
+Marked Position (px): 406.154, 209.308
+Time (ms): 16478
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+201
+1 markers detected!
+2.20704 2.2599 0.0212761
+0.0516864 -0.016226 0.169443
+Detected Position (px): 401.75, 212.5
+Marked Position (px): 403.067, 213.067
+Time (ms): 16525
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+202
+1 markers detected!
+2.23983 2.25585 0.0219295
+0.0489276 -0.0144844 0.170921
+Detected Position (px): 396.75, 215.5
+Marked Position (px): 398.769, 215.615
+Time (ms): 16569
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+203
+1 markers detected!
+-2.14435 -2.1641 0.000840037
+0.0470932 -0.0136761 0.173291
+Detected Position (px): 393, 217
+Marked Position (px): 395.273, 217.364
+Time (ms): 16636
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+204
+1 markers detected!
+2.28257 2.29283 0.0635269
+0.0459283 -0.012722 0.171659
+Detected Position (px): 391.75, 218.25
+Marked Position (px): 393.5, 219.1
+Time (ms): 16679
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+205
+1 markers detected!
+2.28771 2.29318 0.036811
+0.0444735 -0.0109238 0.17164
+Detected Position (px): 389.5, 221.25
+Marked Position (px): 391.4, 221.733
+Time (ms): 16727
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+206
+1 markers detected!
+2.24472 2.28271 0.0923255
+0.0423129 -0.0106628 0.172551
+Detected Position (px): 385.5, 221.75
+Marked Position (px): 387.583, 222.417
+Time (ms): 16776
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+207
+1 markers detected!
+-2.10823 -2.15641 -0.0697635
+0.0416742 -0.0100417 0.176365
+Detected Position (px): 383.25, 223
+Marked Position (px): 382, 224
+Time (ms): 16827
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+208
+1 markers detected!
+-2.07182 -2.11231 -0.134643
+0.0412403 -0.00905572 0.178081
+Detected Position (px): 382, 224.5
+Marked Position (px): 383.636, 225.545
+Time (ms): 16873
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+209
+1 markers detected!
+-2.12231 -2.12058 -0.124541
+0.0417906 -0.00905005 0.179543
+Detected Position (px): 382.25, 224.75
+Marked Position (px): 383.5, 225.5
+Time (ms): 16926
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+210
+1 markers detected!
+-2.09299 -2.10291 -0.0601075
+0.0432807 -0.00929762 0.180876
+Detected Position (px): 384.25, 224.5
+Marked Position (px): 385.364, 224.636
+Time (ms): 16974
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+1 markers detected!
+-2.05355 -2.02519 -0.133695
+0.0441074 -0.0098366 0.179788
+Detected Position (px): 386, 223.25
+Marked Position (px): 387.2, 223.6
+Time (ms): 17034
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+211
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+212
+1 markers detected!
+-2.28632 -2.12041 0.0320674
+0.0610932 -0.0349666 0.177543
+Detected Position (px): 411.75, 184.5
+Marked Position (px): 413.727, 185.273
+Time (ms): 18027
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+213
+1 markers detected!
+-2.24568 -2.07076 -0.010678
+0.0635973 -0.0334488 0.181216
+Detected Position (px): 413.75, 187.75
+Marked Position (px): 415.778, 187.667
+Time (ms): 18073
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+214
+1 markers detected!
+-2.24212 -2.10212 0.0880489
+0.0647598 -0.0338647 0.181759
+Detected Position (px): 415.25, 187.5
+Marked Position (px): 417.364, 187.727
+Time (ms): 18128
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+215
+1 markers detected!
+-2.21605 -2.06673 0.11524
+0.0669537 -0.0365265 0.188119
+Detected Position (px): 415.25, 185.25
+Marked Position (px): 417.364, 185.727
+Time (ms): 18187
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+217
+2 markers detected!
+2.38974 2.45782 -1.47946
+0.103391 0.180987 0.924633
+Detected Position (px): 348, 296.75
+Marked Position (px): 0, 0
+Time (ms): 18232
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+217
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+218
+1 markers detected!
+-2.28495 -2.09976 0.046407
+0.0715732 -0.0397392 0.188673
+Detected Position (px): 421, 181
+Marked Position (px): 412, 182
+Time (ms): 18331
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+219
+1 markers detected!
+-2.30223 -2.11473 -0.0208084
+0.0759034 -0.039229 0.191733
+Detected Position (px): 425.25, 182.75
+Marked Position (px): 428.273, 183.636
+Time (ms): 18378
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+220
+1 markers detected!
+-2.2599 -2.1203 0.0975087
+0.0807453 -0.0373321 0.194509
+Detected Position (px): 430.5, 186.5
+Marked Position (px): 433.333, 187.222
+Time (ms): 18428
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+221
+1 markers detected!
+-2.27488 -2.1016 -0.0133949
+0.0836786 -0.0357456 0.194573
+Detected Position (px): 434.25, 188.75
+Marked Position (px): 437.125, 189.125
+Time (ms): 18479
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+222
+1 markers detected!
+-2.28963 -2.10836 -0.0423103
+0.086372 -0.034412 0.194575
+Detected Position (px): 437.75, 190.75
+Marked Position (px): 439.333, 191
+Time (ms): 18523
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+223
+1 markers detected!
+-2.27524 -2.12038 -0.0143002
+0.0889004 -0.0335646 0.19648
+Detected Position (px): 440, 192.5
+Marked Position (px): 443.125, 193
+Time (ms): 18583
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+224
+1 markers detected!
+-2.2482 -2.12349 0.0325405
+0.0909358 -0.0321537 0.197295
+Detected Position (px): 442.25, 194.75
+Marked Position (px): 444.778, 194.889
+Time (ms): 18633
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+225
+1 markers detected!
+-2.29233 -2.13379 -0.0350709
+0.0915993 -0.0307846 0.196483
+Detected Position (px): 443.5, 196.5
+Marked Position (px): 445.5, 196.9
+Time (ms): 18681
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+226
+1 markers detected!
+-2.23813 -2.08188 -0.0142292
+0.0931145 -0.0297462 0.198326
+Detected Position (px): 444.5, 198.25
+Marked Position (px): 444, 199
+Time (ms): 18729
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+227
+1 markers detected!
+-2.24649 -2.10765 -0.00610749
+0.092465 -0.0286759 0.196947
+Detected Position (px): 444.5, 199.5
+Marked Position (px): 446.5, 200
+Time (ms): 18779
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+228
+1 markers detected!
+-2.22285 -2.08702 -0.0107826
+0.0919857 -0.0279453 0.197326
+Detected Position (px): 443.75, 200.5
+Marked Position (px): 445.286, 200.714
+Time (ms): 18823
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+229
+1 markers detected!
+-2.20225 -2.07537 -0.00224805
+0.0911013 -0.0279364 0.197645
+Detected Position (px): 442.5, 200.5
+Marked Position (px): 443.889, 200.778
+Time (ms): 18879
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+230
+1 markers detected!
+-2.24551 -2.09421 -0.0160659
+0.0890391 -0.0274788 0.195587
+Detected Position (px): 441, 200.75
+Marked Position (px): 443.125, 201
+Time (ms): 18942
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+231
+1 markers detected!
+-2.23327 -2.09767 -0.0235212
+0.089155 -0.0272437 0.198114
+Detected Position (px): 439.75, 201.5
+Marked Position (px): 441.333, 201.778
+Time (ms): 18993
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+232
+1 markers detected!
+-2.2544 -2.13288 -0.0398675
+0.0875266 -0.0264522 0.196125
+Detected Position (px): 438.75, 202.25
+Marked Position (px): 440.667, 202.333
+Time (ms): 19034
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+233
+1 markers detected!
+-2.25821 -2.11763 -0.0706901
+0.0863936 -0.0257543 0.195316
+Detected Position (px): 437.75, 203
+Marked Position (px): 439.286, 203
+Time (ms): 19087
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+234
+1 markers detected!
+-2.21328 -2.08016 -0.0362691
+0.0872181 -0.0257861 0.19881
+Detected Position (px): 437, 203.5
+Marked Position (px): 439.125, 204
+Time (ms): 19137
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+235
+1 markers detected!
+-2.24118 -2.13098 0.00683383
+0.0855627 -0.0250218 0.196298
+Detected Position (px): 436.25, 204.25
+Marked Position (px): 438.2, 204.2
+Time (ms): 19178
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+236
+1 markers detected!
+-2.1991 -2.08576 0.0383483
+0.0855723 -0.0250833 0.198847
+Detected Position (px): 435, 204.5
+Marked Position (px): 437.125, 205
+Time (ms): 19233
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+237
+1 markers detected!
+-2.18289 -2.10733 0.0279057
+0.084571 -0.0247415 0.199265
+Detected Position (px): 433.5, 205
+Marked Position (px): 435.125, 205
+Time (ms): 19272
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+238
+1 markers detected!
+-2.18481 -2.10883 0.0610514
+0.0834492 -0.024715 0.198977
+Detected Position (px): 432.25, 205
+Marked Position (px): 433.75, 205.375
+Time (ms): 19342
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+239
+1 markers detected!
+-2.19318 -2.10752 0.0563603
+0.082013 -0.024071 0.198328
+Detected Position (px): 430.75, 205.75
+Marked Position (px): 435, 206
+Time (ms): 19390
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+240
+1 markers detected!
+2.34179 2.22573 0.0100078
+0.0806235 -0.0229266 0.196697
+Detected Position (px): 429.75, 207
+Marked Position (px): 431.286, 207.286
+Time (ms): 19443
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+241
+1 markers detected!
+-2.16486 -2.07875 0.0847725
+0.0803855 -0.02188 0.198443
+Detected Position (px): 428.75, 208.75
+Marked Position (px): 430, 208.875
+Time (ms): 19487
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+242
+1 markers detected!
+2.34427 2.24122 -0.0562494
+0.0786527 -0.0208166 0.196839
+Detected Position (px): 427.25, 210
+Marked Position (px): 429.125, 210.125
+Time (ms): 19530
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+243
+1 markers detected!
+2.34655 2.22051 0.0138598
+0.0772815 -0.0190128 0.195179
+Detected Position (px): 426.25, 212.25
+Marked Position (px): 427.667, 213.111
+Time (ms): 19578
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+244
+1 markers detected!
+-2.19846 -2.0659 0.0433974
+0.0762543 -0.0168947 0.197273
+Detected Position (px): 424, 215.5
+Marked Position (px): 435, 235
+Time (ms): 19625
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+245
+1 markers detected!
+2.35137 2.20358 -0.014711
+0.0738757 -0.0145086 0.195839
+Detected Position (px): 421.5, 218.75
+Marked Position (px): 423.5, 220.375
+Time (ms): 19672
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+246
+1 markers detected!
+2.32376 2.19501 0.0350701
+0.0705073 -0.010962 0.192095
+Detected Position (px): 418.75, 223.5
+Marked Position (px): 421.125, 225
+Time (ms): 19738
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+247
+1 markers detected!
+-2.20977 -2.06281 -0.0974906
+0.0681521 -0.0071212 0.189205
+Detected Position (px): 417, 228.75
+Marked Position (px): 418.714, 229.143
+Time (ms): 19784
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+248
+1 markers detected!
+-2.19702 -2.03795 -0.0966233
+0.0657418 -0.0045196 0.187531
+Detected Position (px): 414.5, 232.5
+Marked Position (px): 416.571, 233.143
+Time (ms): 19834
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+249
+1 markers detected!
+-2.21141 -2.06502 -0.122118
+0.0633169 -0.00283227 0.184866
+Detected Position (px): 412.25, 235
+Marked Position (px): 414.286, 235.714
+Time (ms): 19891
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+250
+1 markers detected!
+-2.21429 -2.10379 -0.0595076
+0.0609921 -0.00160279 0.183096
+Detected Position (px): 409.75, 237
+Marked Position (px): 411.286, 237.714
+Time (ms): 19931
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+251
+1 markers detected!
+-2.22121 -2.11322 -0.0635932
+0.0590773 -0.000326335 0.183453
+Detected Position (px): 406.75, 239
+Marked Position (px): 409.125, 240
+Time (ms): 19975
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+252
+1 markers detected!
+-2.20431 -2.06569 -0.102202
+0.0569277 0.0013813 0.182074
+Detected Position (px): 404.25, 241.5
+Marked Position (px): 405.5, 242.25
+Time (ms): 20024
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+253
+1 markers detected!
+2.41863 2.24362 0.149069
+0.0549602 0.00321765 0.181212
+Detected Position (px): 401.75, 244.25
+Marked Position (px): 402.857, 245.143
+Time (ms): 20072
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+1 markers detected!
+2.37161 2.21546 0.146595
+0.0526442 0.00531983 0.179801
+Detected Position (px): 398.75, 247.75
+Marked Position (px): 398, 249
+Time (ms): 20135
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+254
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+255
+1 markers detected!
+-2.30184 -2.00146 -0.0911919
+0.0240212 0.0194622 0.170833
+Detected Position (px): 356, 272.25
+Marked Position (px): 357.875, 272.875
+Time (ms): 20780
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+256
+1 markers detected!
+-2.30261 -2.0078 -0.0976503
+0.0222322 0.0189023 0.168487
+Detected Position (px): 353.5, 271.75
+Marked Position (px): 355.333, 272.111
+Time (ms): 20833
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+257
+1 markers detected!
+2.44363 2.12279 0.0679072
+0.0211215 0.0182811 0.168326
+Detected Position (px): 351.75, 270.75
+Marked Position (px): 353.333, 271.222
+Time (ms): 20899
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+258
+1 markers detected!
+2.4227 2.07974 0.0464121
+0.0201768 0.0168765 0.169998
+Detected Position (px): 349.75, 268.25
+Marked Position (px): 351.333, 269.111
+Time (ms): 20936
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+259
+1 markers detected!
+2.47055 2.11751 0.245037
+0.0187494 0.0140843 0.168458
+Detected Position (px): 347.5, 263.25
+Marked Position (px): 349.333, 264.222
+Time (ms): 20986
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+260
+1 markers detected!
+2.47829 2.11941 0.121396
+0.0175874 0.010714 0.169906
+Detected Position (px): 345.5, 257.5
+Marked Position (px): 347.364, 258.727
+Time (ms): 21034
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+261
+1 markers detected!
+2.43224 2.08978 0.099529
+0.0164221 0.0085265 0.169472
+Detected Position (px): 343.5, 254
+Marked Position (px): 345.333, 254.222
+Time (ms): 21084
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+262
+1 markers detected!
+-2.33489 -2.00029 -0.106108
+0.0152055 0.00719336 0.168891
+Detected Position (px): 341.5, 251.75
+Marked Position (px): 343.333, 252.111
+Time (ms): 21133
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+263
+1 markers detected!
+2.38466 2.06139 0.094705
+0.0137977 0.00612754 0.170715
+Detected Position (px): 338.75, 250
+Marked Position (px): 340.778, 250.556
+Time (ms): 21177
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+264
+1 markers detected!
+2.38047 2.04315 0.00104566
+0.0113202 0.00502955 0.172547
+Detected Position (px): 334.5, 248.25
+Marked Position (px): 336.273, 248.273
+Time (ms): 21230
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+265
+1 markers detected!
+2.49025 2.08922 0.156182
+0.00842823 0.00475371 0.171631
+Detected Position (px): 329.75, 247.25
+Marked Position (px): 331.6, 247.2
+Time (ms): 21295
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+266
+1 markers detected!
+2.43354 2.02375 0.0711465
+0.00599477 0.00485629 0.17297
+Detected Position (px): 325.5, 247.75
+Marked Position (px): 331, 247
+Time (ms): 21336
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+267
+1 markers detected!
+2.44653 2.0123 0.18409
+0.00326307 0.00584872 0.172579
+Detected Position (px): 320.75, 249.25
+Marked Position (px): 325, 249
+Time (ms): 21394
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+268
+1 markers detected!
+2.37066 1.93928 0.102953
+0.000801951 0.00752793 0.172848
+Detected Position (px): 316.5, 252.5
+Marked Position (px): 316.5, 253.2
+Time (ms): 21432
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+269
+1 markers detected!
+2.36945 1.90443 0.146934
+-0.00165158 0.0101864 0.172482
+Detected Position (px): 312.25, 257
+Marked Position (px): 311.889, 257.444
+Time (ms): 21481
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+270
+1 markers detected!
+2.40193 1.91222 0.0413131
+-0.00465486 0.0126837 0.172722
+Detected Position (px): 307.5, 261.25
+Marked Position (px): 311, 262
+Time (ms): 21531
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+271
+1 markers detected!
+-2.46097 -1.9074 -0.100915
+-0.00668639 0.014723 0.169375
+Detected Position (px): 304, 264.75
+Marked Position (px): 305.2, 265.2
+Time (ms): 21579
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+272
+1 markers detected!
+-2.42283 -1.86777 -0.158857
+-0.00779571 0.0159072 0.167888
+Detected Position (px): 302, 266.75
+Marked Position (px): 303.222, 266.889
+Time (ms): 21642
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+273
+1 markers detected!
+2.53663 1.93638 0.143217
+-0.00920634 0.015933 0.16723
+Detected Position (px): 299.5, 267
+Marked Position (px): 300.714, 267.143
+Time (ms): 21693
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+274
+1 markers detected!
+2.47489 1.86732 0.138038
+-0.00945579 0.0161057 0.166219
+Detected Position (px): 298.75, 267.75
+Marked Position (px): 299.5, 268
+Time (ms): 21746
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+275
+1 markers detected!
+2.50525 1.88454 0.181743
+-0.0100234 0.0169128 0.166019
+Detected Position (px): 297.75, 269
+Marked Position (px): 299, 269.444
+Time (ms): 21787
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+276
+1 markers detected!
+2.47823 1.84468 0.137568
+-0.0108343 0.0180172 0.165373
+Detected Position (px): 296.25, 271.25
+Marked Position (px): 297.5, 271.9
+Time (ms): 21836
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+277
+1 markers detected!
+-2.48353 -1.83724 -0.26006
+-0.0119618 0.0195033 0.163386
+Detected Position (px): 294, 273.75
+Marked Position (px): 295.222, 274.222
+Time (ms): 21881
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+278
+1 markers detected!
+-2.52547 -1.84469 -0.124679
+-0.0138615 0.020844 0.164044
+Detected Position (px): 291, 276.25
+Marked Position (px): 291.9, 276.4
+Time (ms): 21929
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+279
+1 markers detected!
+-2.50937 -1.84413 -0.183731
+-0.0156356 0.0218322 0.162192
+Detected Position (px): 287.5, 278.25
+Marked Position (px): 291, 278
+Time (ms): 21977
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+280
+1 markers detected!
+-2.52797 -1.85317 -0.168251
+-0.0178281 0.0232524 0.161434
+Detected Position (px): 283.5, 281
+Marked Position (px): 284.727, 281.273
+Time (ms): 22041
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+281
+1 markers detected!
+2.51201 1.84787 0.139736
+-0.0195154 0.0241602 0.161218
+Detected Position (px): 280.5, 282.75
+Marked Position (px): 281.5, 283
+Time (ms): 22088
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+282
+1 markers detected!
+2.51191 1.83692 0.0459214
+-0.0209239 0.0245213 0.161387
+Detected Position (px): 278.25, 283.5
+Marked Position (px): 279.364, 284.273
+Time (ms): 22138
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+283
+1 markers detected!
+2.53854 1.90158 0.12112
+-0.0219357 0.0241648 0.160531
+Detected Position (px): 276.25, 282.75
+Marked Position (px): 277.5, 283.5
+Time (ms): 22188
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+284
+1 markers detected!
+2.48279 1.93689 0.27243
+-0.0240846 0.0222597 0.162219
+Detected Position (px): 272.5, 278.75
+Marked Position (px): 273.364, 279.727
+Time (ms): 22237
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+285
+1 markers detected!
+2.46542 1.9131 0.095867
+-0.0269284 0.0192708 0.163921
+Detected Position (px): 268.25, 273.5
+Marked Position (px): 269.2, 274.6
+Time (ms): 22283
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+286
+1 markers detected!
+2.40785 1.93927 0.158647
+-0.0289439 0.016429 0.163805
+Detected Position (px): 264.5, 268.5
+Marked Position (px): 265.2, 269.6
+Time (ms): 22331
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+287
+1 markers detected!
+2.38566 1.95774 0.059288
+-0.0309715 0.0137837 0.164079
+Detected Position (px): 261.25, 264
+Marked Position (px): 262.5, 264.9
+Time (ms): 22376
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+288
+1 markers detected!
+2.41642 2.03039 0.0421311
+-0.0326023 0.0120124 0.16364
+Detected Position (px): 258.5, 260.75
+Marked Position (px): 259.364, 260.909
+Time (ms): 22446
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+289
+1 markers detected!
+2.3873 2.05178 0.0683492
+-0.0348544 0.00993197 0.164213
+Detected Position (px): 254.75, 257
+Marked Position (px): 256.154, 257.462
+Time (ms): 22492
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+290
+1 markers detected!
+2.34765 2.06578 0.190876
+-0.0368919 0.00780442 0.165587
+Detected Position (px): 251.5, 253
+Marked Position (px): 252.154, 253.154
+Time (ms): 22537
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+291
+1 markers detected!
+-2.37178 -2.11161 -0.0530476
+-0.03966 0.00532197 0.165512
+Detected Position (px): 247, 249
+Marked Position (px): 248.154, 249.385
+Time (ms): 22588
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+292
+1 markers detected!
+-2.38054 -2.15324 -0.0017063
+-0.0414518 0.00319522 0.165527
+Detected Position (px): 244, 245.5
+Marked Position (px): 245.273, 245.727
+Time (ms): 22635
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+293
+1 markers detected!
+2.2603 2.09652 -0.00938436
+-0.04294 0.00205466 0.165989
+Detected Position (px): 241.75, 243.5
+Marked Position (px): 242.545, 243.727
+Time (ms): 22689
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+294
+1 markers detected!
+-2.25518 -2.16963 0.0502496
+-0.043819 0.00111333 0.165332
+Detected Position (px): 240.25, 241.75
+Marked Position (px): 253, 254
+Time (ms): 22736
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+295
+1 markers detected!
+-2.21546 -2.18366 0.041992
+-0.0451037 0.000139708 0.166148
+Detected Position (px): 238.5, 240
+Marked Position (px): 239.364, 240.727
+Time (ms): 22778
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+296
+1 markers detected!
+-2.20214 -2.25511 0.021128
+-0.0468311 -0.00210187 0.16722
+Detected Position (px): 236, 236.25
+Marked Position (px): 236.538, 237.385
+Time (ms): 22852
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+297
+1 markers detected!
+-2.16399 -2.26252 0.0779569
+-0.0478518 -0.00283866 0.165656
+Detected Position (px): 233.75, 235
+Marked Position (px): 234.154, 235.385
+Time (ms): 22888
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+298
+1 markers detected!
+-2.10311 -2.25511 0.112218
+-0.0491059 -0.00323131 0.164919
+Detected Position (px): 231.5, 234.25
+Marked Position (px): 241, 256
+Time (ms): 22935
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+299
+1 markers detected!
+-2.03411 -2.25566 0.0857474
+-0.0504728 -0.00329055 0.165294
+Detected Position (px): 229.5, 234
+Marked Position (px): 230, 234.571
+Time (ms): 22987
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+300
+1 markers detected!
+-2.02828 -2.27728 0.121221
+-0.0511174 -0.00409352 0.165888
+Detected Position (px): 228.75, 232.75
+Marked Position (px): 229, 232.667
+Time (ms): 23031
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+301
+1 markers detected!
+-2.03127 -2.31869 0.0334814
+-0.0523591 -0.00596956 0.170933
+Detected Position (px): 229, 229.75
+Marked Position (px): 229.2, 230.5
+Time (ms): 23084
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+302
+1 markers detected!
+-1.99437 -2.29938 0.0358408
+-0.0529829 -0.00790971 0.171745
+Detected Position (px): 228.5, 226.5
+Marked Position (px): 229, 227.556
+Time (ms): 23130
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+303
+1 markers detected!
+2.11753 2.44587 -0.00502095
+-0.0525472 -0.00942887 0.172471
+Detected Position (px): 229.5, 224
+Marked Position (px): 229.636, 224.273
+Time (ms): 23196
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+304
+1 markers detected!
+-2.00352 -2.30834 -0.0651823
+-0.0529267 -0.011303 0.176693
+Detected Position (px): 230.75, 221.25
+Marked Position (px): 231.091, 221.909
+Time (ms): 23245
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+305
+1 markers detected!
+-1.96308 -2.26708 -0.0423282
+-0.0520176 -0.0127383 0.175977
+Detected Position (px): 232, 218.75
+Marked Position (px): 232.545, 219.273
+Time (ms): 23290
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+306
+1 markers detected!
+-1.98512 -2.30097 -0.0854674
+-0.0520211 -0.0156845 0.181406
+Detected Position (px): 234.25, 214.75
+Marked Position (px): 234.5, 215.5
+Time (ms): 23341
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+307
+1 markers detected!
+-2.0007 -2.29592 -0.037706
+-0.0508652 -0.0184358 0.183015
+Detected Position (px): 236.75, 210.75
+Marked Position (px): 236.5, 212
+Time (ms): 23383
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+308
+1 markers detected!
+-1.98781 -2.29535 -0.01808
+-0.0502474 -0.0212158 0.184855
+Detected Position (px): 238.5, 206.75
+Marked Position (px): 239.556, 207.778
+Time (ms): 23433
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+309
+1 markers detected!
+-2.01137 -2.29416 -0.06483
+-0.0494661 -0.0235729 0.187136
+Detected Position (px): 240.5, 203.5
+Marked Position (px): 243, 205
+Time (ms): 23482
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+310
+1 markers detected!
+-2.01791 -2.30673 -0.0773916
+-0.0485153 -0.0248398 0.186766
+Detected Position (px): 241.75, 201.5
+Marked Position (px): 241.8, 201.5
+Time (ms): 23530
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+311
+1 markers detected!
+-2.03618 -2.32473 -0.127047
+-0.0484358 -0.0268328 0.189358
+Detected Position (px): 242.75, 199
+Marked Position (px): 243.333, 199.111
+Time (ms): 23594
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+312
+1 markers detected!
+-2.05675 -2.31403 -0.0619822
+-0.0480605 -0.0286027 0.189607
+Detected Position (px): 243.5, 196.5
+Marked Position (px): 243.667, 197
+Time (ms): 23646
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+313
+1 markers detected!
+-2.01762 -2.28575 -0.0335069
+-0.0479349 -0.0306319 0.189981
+Detected Position (px): 244, 193.5
+Marked Position (px): 244.5, 194
+Time (ms): 23696
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+314
+1 markers detected!
+-2.05409 -2.32317 -0.073633
+-0.0481439 -0.0326616 0.191819
+Detected Position (px): 244.25, 191
+Marked Position (px): 242, 192
+Time (ms): 23742
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+315
+1 markers detected!
+-2.06185 -2.30103 -0.168411
+-0.0486772 -0.0353095 0.194783
+Detected Position (px): 244.5, 187.75
+Marked Position (px): 245.2, 188.5
+Time (ms): 23794
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+316
+1 markers detected!
+-2.07308 -2.27681 -0.0963345
+-0.0487855 -0.0377381 0.195433
+Detected Position (px): 244.75, 184.5
+Marked Position (px): 253, 203
+Time (ms): 23833
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+317
+1 markers detected!
+-2.05907 -2.24373 -0.150198
+-0.048372 -0.0394756 0.195015
+Detected Position (px): 245.25, 181.75
+Marked Position (px): 245.5, 182
+Time (ms): 23885
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+318
+1 markers detected!
+-2.05214 -2.24152 -0.156905
+-0.0495452 -0.0418816 0.198169
+Detected Position (px): 244.75, 179.25
+Marked Position (px): 245.5, 179.75
+Time (ms): 23929
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+319
+1 markers detected!
+-2.18333 -2.22163 -0.226562
+-0.0489411 -0.0447918 0.199056
+Detected Position (px): 245.75, 175.5
+Marked Position (px): 246.4, 176.2
+Time (ms): 23991
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+320
+1 markers detected!
+-2.14172 -2.14673 -0.511674
+-0.0479831 -0.0470416 0.199402
+Detected Position (px): 247, 172
+Marked Position (px): 247.25, 172.5
+Time (ms): 24041
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+321
+1 markers detected!
+-2.12455 -2.11766 -0.366589
+-0.0467251 -0.0482613 0.197642
+Detected Position (px): 248.5, 169.75
+Marked Position (px): 251, 170
+Time (ms): 24092
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+322
+1 markers detected!
+-2.28836 -2.16866 -0.215178
+-0.0461679 -0.0512814 0.199817
+Detected Position (px): 250, 166.75
+Marked Position (px): 250, 167
+Time (ms): 24144
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+323
+1 markers detected!
+-2.21395 -2.12308 -0.274516
+-0.0438642 -0.0539992 0.198582
+Detected Position (px): 253, 162.25
+Marked Position (px): 255, 163
+Time (ms): 24191
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+324
+1 markers detected!
+-2.27349 -2.13835 -0.152218
+-0.0417752 -0.0551872 0.195866
+Detected Position (px): 255.25, 159.75
+Marked Position (px): 255.714, 159.857
+Time (ms): 24237
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+325
+1 markers detected!
+-2.20158 -2.1134 -0.270005
+-0.0410664 -0.0567742 0.198461
+Detected Position (px): 257, 158.25
+Marked Position (px): 257.5, 158.167
+Time (ms): 24285
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+326
+1 markers detected!
+-2.08608 -2.01827 -0.675874
+-0.039603 -0.0578435 0.199602
+Detected Position (px): 259, 156.5
+Marked Position (px): 259.286, 156.571
+Time (ms): 24330
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+327
+1 markers detected!
+-2.19101 -2.10516 -0.262475
+-0.0382711 -0.0588559 0.198414
+Detected Position (px): 261, 155.25
+Marked Position (px): 261.286, 155.429
+Time (ms): 24400
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+328
+1 markers detected!
+-2.04174 -1.95545 -0.815208
+-0.0363298 -0.058293 0.195813
+Detected Position (px): 262.5, 154
+Marked Position (px): 263.286, 154
+Time (ms): 24439
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+329
+1 markers detected!
+-2.00992 -1.9459 -0.816408
+-0.0353921 -0.059531 0.197157
+Detected Position (px): 264.25, 152.75
+Marked Position (px): 265.286, 152.571
+Time (ms): 24491
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+330
+1 markers detected!
+-2.17703 -2.09435 -0.254359
+-0.034777 -0.0616291 0.19828
+Detected Position (px): 266, 151.25
+Marked Position (px): 266.714, 151.143
+Time (ms): 24544
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+331
+1 markers detected!
+-2.04546 -1.96706 -0.765342
+-0.0325271 -0.0611742 0.196577
+Detected Position (px): 268.25, 150.25
+Marked Position (px): 269, 150.25
+Time (ms): 24589
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+332
+1 markers detected!
+-2.24549 -2.15324 -0.174513
+-0.0312161 -0.0626769 0.197189
+Detected Position (px): 270.75, 149.5
+Marked Position (px): 271.714, 149.286
+Time (ms): 24640
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+333
+1 markers detected!
+-2.28051 -2.17648 -0.115635
+-0.0291817 -0.0639624 0.197625
+Detected Position (px): 273.75, 148
+Marked Position (px): 274.5, 148.5
+Time (ms): 24691
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+334
+1 markers detected!
+-2.19162 -2.13456 -0.168308
+-0.0268644 -0.0648955 0.199527
+Detected Position (px): 277.5, 147.25
+Marked Position (px): 277.5, 147.333
+Time (ms): 24745
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+335
+1 markers detected!
+-2.18485 -2.13001 -0.159936
+-0.0247594 -0.0655916 0.19954
+Detected Position (px): 280.5, 146.25
+Marked Position (px): 281.286, 146.429
+Time (ms): 24794
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+336
+1 markers detected!
+-2.02545 -1.95546 -0.729666
+-0.0215796 -0.0651913 0.199637
+Detected Position (px): 284.5, 145.75
+Marked Position (px): 285.286, 145.571
+Time (ms): 24846
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+337
+1 markers detected!
+-2.02242 -1.97104 -0.722879
+-0.0190474 -0.0662163 0.198905
+Detected Position (px): 288, 144
+Marked Position (px): 289.286, 144.714
+Time (ms): 24888
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+338
+1 markers detected!
+-1.97714 -1.9308 -0.739495
+-0.0157057 -0.0659187 0.196267
+Detected Position (px): 292.5, 143
+Marked Position (px): 293.2, 143.2
+Time (ms): 24936
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+339
+1 markers detected!
+-1.94407 -1.91584 -0.642714
+-0.0124698 -0.0660016 0.195014
+Detected Position (px): 297.25, 142.25
+Marked Position (px): 298.5, 142.5
+Time (ms): 24991
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+340
+1 markers detected!
+-1.95795 -1.91568 -0.74771
+-0.0091834 -0.0659247 0.193949
+Detected Position (px): 301.75, 141.75
+Marked Position (px): 304.5, 142
+Time (ms): 25038
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+341
+1 markers detected!
+-1.93792 -1.94513 -0.578692
+-0.00597532 -0.0665446 0.194988
+Detected Position (px): 306.75, 141.5
+Marked Position (px): 308.5, 141.5
+Time (ms): 25080
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+342
+1 markers detected!
+-1.9744 -1.97589 -0.635957
+-0.00220249 -0.0660067 0.192332
+Detected Position (px): 312, 141
+Marked Position (px): 315, 142
+Time (ms): 25149
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+343
+1 markers detected!
+-1.9812 -1.9818 -0.504147
+0.00141546 -0.0664943 0.193447
+Detected Position (px): 317.5, 141
+Marked Position (px): 319.286, 141.429
+Time (ms): 25194
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+344
+1 markers detected!
+-1.95312 -1.95786 -0.600187
+0.00481203 -0.0652571 0.189686
+Detected Position (px): 322.5, 140.75
+Marked Position (px): 323.778, 140.667
+Time (ms): 25241
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+345
+1 markers detected!
+-1.96592 -1.97933 -0.589583
+0.00774909 -0.0664209 0.191319
+Detected Position (px): 326.75, 140
+Marked Position (px): 327.714, 140.286
+Time (ms): 25289
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+346
+1 markers detected!
+-1.93557 -1.96736 -0.498546
+0.0101029 -0.0665971 0.190172
+Detected Position (px): 330.5, 139.25
+Marked Position (px): 331.5, 139.333
+Time (ms): 25337
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+347
+1 markers detected!
+-2.10253 -2.19387 -0.0622232
+0.0124254 -0.0672481 0.188155
+Detected Position (px): 334.25, 138.5
+Marked Position (px): 335.286, 138.857
+Time (ms): 25386
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+348
+1 markers detected!
+-1.86509 -1.89851 -0.573205
+0.0148056 -0.0668944 0.187894
+Detected Position (px): 337.75, 137.5
+Marked Position (px): 339.286, 137.714
+Time (ms): 25439
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+349
+1 markers detected!
+-1.87394 -1.9197 -0.445399
+0.0174078 -0.0681936 0.190053
+Detected Position (px): 341.5, 137
+Marked Position (px): 342.8, 137.2
+Time (ms): 25490
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+350
+1 markers detected!
+-2.06475 -2.1657 -0.0745817
+0.0197079 -0.0682558 0.187383
+Detected Position (px): 345.25, 136.75
+Marked Position (px): 347.286, 136.857
+Time (ms): 25548
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+351
+1 markers detected!
+-1.83194 -1.88549 -0.515151
+0.0224438 -0.0669275 0.186613
+Detected Position (px): 349.5, 137
+Marked Position (px): 351.5, 137
+Time (ms): 25596
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+352
+1 markers detected!
+-1.82887 -1.87731 -0.500407
+0.0257357 -0.0669094 0.18634
+Detected Position (px): 354.5, 137
+Marked Position (px): 355.5, 137
+Time (ms): 25640
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+353
+1 markers detected!
+-1.844 -1.90769 -0.400129
+0.0291052 -0.0684251 0.188956
+Detected Position (px): 359, 136.5
+Marked Position (px): 362.5, 137
+Time (ms): 25692
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+354
+1 markers detected!
+-1.78328 -1.86421 -0.411205
+0.0321956 -0.0672103 0.186602
+Detected Position (px): 364.25, 137
+Marked Position (px): 367, 137
+Time (ms): 25736
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+355
+1 markers detected!
+-1.77217 -1.82121 -0.41117
+0.0358518 -0.0667129 0.186491
+Detected Position (px): 369.75, 137.75
+Marked Position (px): 0, 0
+Time (ms): 25784
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+356
+1 markers detected!
+-1.73661 -1.81309 -0.371242
+0.0407175 -0.0680283 0.189676
+Detected Position (px): 376, 137.75
+Marked Position (px): 0, 0
+Time (ms): 25831
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+357
+1 markers detected!
+-1.79604 -1.87173 -0.322299
+0.0454576 -0.0689986 0.190922
+Detected Position (px): 382.25, 137.5
+Marked Position (px): 0, 0
+Time (ms): 25881
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+358
+1 markers detected!
+-1.9361 -2.08042 -0.171304
+0.0505995 -0.0717736 0.194087
+Detected Position (px): 388, 136.25
+Marked Position (px): 389.286, 136.857
+Time (ms): 25943
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+359
+1 markers detected!
+-1.78902 -1.86811 -0.258681
+0.0533089 -0.0702713 0.191733
+Detected Position (px): 393, 136.75
+Marked Position (px): 394.5, 137
+Time (ms): 25992
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+360
+1 markers detected!
+-1.97664 -2.14079 -0.0443768
+0.0563887 -0.0704358 0.19091
+Detected Position (px): 397.25, 137.25
+Marked Position (px): 401, 138
+Time (ms): 26041
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+361
+1 markers detected!
+-1.73785 -1.82937 -0.309753
+0.0591988 -0.0697072 0.191645
+Detected Position (px): 401.25, 137.75
+Marked Position (px): 402, 138
+Time (ms): 26091
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+362
+1 markers detected!
+-1.93201 -2.09778 -0.113321
+0.0628454 -0.0711775 0.192926
+Detected Position (px): 405.25, 137.5
+Marked Position (px): 406, 138
+Time (ms): 26140
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+363
+1 markers detected!
+-1.92798 -2.13339 0.00832279
+0.0652519 -0.0713849 0.193741
+Detected Position (px): 408.25, 138
+Marked Position (px): 0, 0
+Time (ms): 26188
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+364
+1 markers detected!
+-1.76025 -1.87414 -0.252412
+0.0666294 -0.0699856 0.192945
+Detected Position (px): 410.75, 138.75
+Marked Position (px): 412.333, 138.667
+Time (ms): 26233
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+365
+1 markers detected!
+-1.84489 -1.96797 -0.290886
+0.068036 -0.0699277 0.194356
+Detected Position (px): 411.75, 139.75
+Marked Position (px): 414.333, 139.667
+Time (ms): 26298
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+366
+1 markers detected!
+-1.84398 -1.9668 -0.285346
+0.0687361 -0.0692205 0.194351
+Detected Position (px): 412.75, 140.75
+Marked Position (px): 414, 140.5
+Time (ms): 26344
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+366
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+366
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+367
+1 markers detected!
+-1.94638 -2.12323 0.0267449
+0.0681892 -0.0678184 0.193102
+Detected Position (px): 412.75, 142.75
+Marked Position (px): 414.333, 142.667
+Time (ms): 26495
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+368
+1 markers detected!
+-1.95889 -2.06877 -0.14312
+0.069062 -0.0671334 0.194367
+Detected Position (px): 413.25, 144
+Marked Position (px): 414.5, 144.5
+Time (ms): 26542
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+369
+1 markers detected!
+-1.95792 -2.09563 -0.0207168
+0.0683662 -0.0644139 0.192473
+Detected Position (px): 413.5, 147
+Marked Position (px): 415.111, 147.222
+Time (ms): 26584
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+370
+1 markers detected!
+-1.99292 -2.16072 0.0409864
+0.067959 -0.0622596 0.190406
+Detected Position (px): 414, 149.25
+Marked Position (px): 415.286, 149.714
+Time (ms): 26634
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+371
+1 markers detected!
+-1.99395 -2.03649 -0.15565
+0.0685706 -0.0604402 0.190112
+Detected Position (px): 415, 151.25
+Marked Position (px): 417.125, 152
+Time (ms): 26698
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+372
+1 markers detected!
+-2.03245 -2.0591 -0.149623
+0.0689274 -0.0591086 0.189606
+Detected Position (px): 415.75, 153
+Marked Position (px): 417.125, 153.25
+Time (ms): 26745
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+373
+1 markers detected!
+-2.02143 -2.07095 0.0158889
+0.0695201 -0.0577663 0.189871
+Detected Position (px): 416.75, 155.25
+Marked Position (px): 418.571, 155.714
+Time (ms): 26791
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+374
+1 markers detected!
+-2.07389 -2.08709 -0.0142615
+0.0699472 -0.0563723 0.187884
+Detected Position (px): 418.25, 156.5
+Marked Position (px): 419.667, 156.778
+Time (ms): 26840
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+375
+1 markers detected!
+-2.03785 -2.06529 -0.0144468
+0.0704277 -0.0552178 0.186991
+Detected Position (px): 419.5, 157.75
+Marked Position (px): 421.125, 158.125
+Time (ms): 26892
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+376
+1 markers detected!
+-2.06493 -2.11816 0.0322458
+0.0707446 -0.0539287 0.184951
+Detected Position (px): 421, 159
+Marked Position (px): 422.625, 159.5
+Time (ms): 26940
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+377
+1 markers detected!
+-2.05693 -2.15273 0.107734
+0.0716491 -0.0530223 0.184239
+Detected Position (px): 422.75, 160.25
+Marked Position (px): 423.875, 160.625
+Time (ms): 26987
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+378
+1 markers detected!
+-2.00906 -2.09571 0.126826
+0.0734697 -0.0534557 0.186456
+Detected Position (px): 424.25, 160.5
+Marked Position (px): 426.5, 160.9
+Time (ms): 27036
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+379
+1 markers detected!
+-2.03346 -2.10821 0.143921
+0.0741105 -0.0526914 0.183863
+Detected Position (px): 426.5, 160.75
+Marked Position (px): 428, 160.875
+Time (ms): 27103
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+380
+1 markers detected!
+-2.02768 -2.1038 0.1516
+0.0754276 -0.0526832 0.183544
+Detected Position (px): 428.5, 160.75
+Marked Position (px): 430, 161
+Time (ms): 27146
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+381
+1 markers detected!
+-2.00969 -2.06568 0.157253
+0.0778239 -0.0531098 0.185511
+Detected Position (px): 430.75, 161
+Marked Position (px): 433.125, 161
+Time (ms): 27194
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+382
+1 markers detected!
+-2.03477 -2.04429 0.0496741
+0.0790075 -0.0523653 0.184139
+Detected Position (px): 433, 161.5
+Marked Position (px): 435, 161.444
+Time (ms): 27239
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+383
+1 markers detected!
+-2.0292 -2.08204 0.173233
+0.0816516 -0.0530897 0.184349
+Detected Position (px): 436.5, 161
+Marked Position (px): 437.5, 161.25
+Time (ms): 27288
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+384
+1 markers detected!
+-1.99065 -2.02617 0.174347
+0.0837302 -0.0525795 0.184228
+Detected Position (px): 439.5, 161.75
+Marked Position (px): 441.5, 161.625
+Time (ms): 27336
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+385
+1 markers detected!
+-1.97764 -2.04498 0.239086
+0.0858153 -0.0528828 0.183891
+Detected Position (px): 442.5, 161.5
+Marked Position (px): 444.778, 161.778
+Time (ms): 27387
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+386
+1 markers detected!
+-1.93921 -2.01734 0.188024
+0.087958 -0.0531181 0.183993
+Detected Position (px): 445.25, 161.25
+Marked Position (px): 447, 161.6
+Time (ms): 27447
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+387
+1 markers detected!
+-1.98502 -2.0529 0.192052
+0.0891692 -0.0528546 0.182328
+Detected Position (px): 447.75, 161.25
+Marked Position (px): 448.857, 161.143
+Time (ms): 27499
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+388
+1 markers detected!
+-1.93753 -2.01373 0.212864
+0.0918763 -0.0534026 0.185383
+Detected Position (px): 449.5, 161.75
+Marked Position (px): 451.333, 161.222
+Time (ms): 27549
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+389
+1 markers detected!
+-1.9794 -2.07792 0.293677
+0.0934401 -0.0538079 0.184441
+Detected Position (px): 452, 161.25
+Marked Position (px): 453.5, 161.25
+Time (ms): 27594
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+390
+1 markers detected!
+-1.74381 -1.75951 0.20747
+0.0965059 -0.0545175 0.187948
+Detected Position (px): 454.25, 161
+Marked Position (px): 455.875, 160.875
+Time (ms): 27643
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+391
+1 markers detected!
+-1.96437 -2.03777 0.267693
+0.098089 -0.0547781 0.186544
+Detected Position (px): 456.5, 161
+Marked Position (px): 458.5, 160.9
+Time (ms): 27688
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+392
+1 markers detected!
+-1.91809 -1.97146 0.244084
+0.100577 -0.0558451 0.189068
+Detected Position (px): 458, 160.5
+Marked Position (px): 459.5, 160.625
+Time (ms): 27738
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+393
+1 markers detected!
+-1.90018 -1.96042 0.269624
+0.102375 -0.0565492 0.190578
+Detected Position (px): 459.25, 160.25
+Marked Position (px): 460.857, 160.143
+Time (ms): 27787
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+394
+1 markers detected!
+-1.92484 -1.94369 0.187609
+0.103804 -0.0567168 0.191135
+Detected Position (px): 460.5, 160.25
+Marked Position (px): 461.714, 160.143
+Time (ms): 27856
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+395
+1 markers detected!
+-1.83006 -1.85312 0.268128
+0.105149 -0.0569288 0.19259
+Detected Position (px): 461.5, 160.5
+Marked Position (px): 463.286, 160.571
+Time (ms): 27903
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+396
+1 markers detected!
+-1.75555 -1.71184 0.156174
+0.106345 -0.0559379 0.193223
+Detected Position (px): 462.75, 161.75
+Marked Position (px): 465.125, 162
+Time (ms): 27944
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+397
+1 markers detected!
+-1.8257 -1.84794 0.279102
+0.10889 -0.0568588 0.195711
+Detected Position (px): 464, 162
+Marked Position (px): 465.286, 162.286
+Time (ms): 27992
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+398
+1 markers detected!
+-1.76407 -1.78633 0.311299
+0.110627 -0.0571852 0.196752
+Detected Position (px): 465.5, 162
+Marked Position (px): 467.125, 162
+Time (ms): 28047
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+399
+1 markers detected!
+-1.88325 -1.91955 0.308084
+0.112813 -0.0584752 0.198913
+Detected Position (px): 466.25, 161.5
+Marked Position (px): 467.5, 161.833
+Time (ms): 28090
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+400
+1 markers detected!
+-1.74854 -1.6785 0.137438
+0.113551 -0.0579168 0.199943
+Detected Position (px): 466.75, 162
+Marked Position (px): 468.2, 162.2
+Time (ms): 28144
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+401
+1 markers detected!
+-1.69497 -1.65242 0.206748
+0.115058 -0.0579993 0.202154
+Detected Position (px): 467.25, 162.75
+Marked Position (px): 469.286, 162.714
+Time (ms): 28188
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+402
+1 markers detected!
+-1.90518 -1.97673 0.333831
+0.118619 -0.0588834 0.205743
+Detected Position (px): 468.5, 163.75
+Marked Position (px): 470.2, 163.4
+Time (ms): 28253
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+403
+1 markers detected!
+-1.72333 -1.6903 0.293886
+0.119478 -0.0590815 0.208003
+Detected Position (px): 468.5, 163.75
+Marked Position (px): 469.571, 163.714
+Time (ms): 28298
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+404
+1 markers detected!
+-1.74019 -1.68747 0.22149
+0.121278 -0.0595837 0.211509
+Detected Position (px): 468.25, 164.25
+Marked Position (px): 469.571, 164.714
+Time (ms): 28344
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+405
+1 markers detected!
+-1.77573 -1.76721 0.25782
+0.122715 -0.0596715 0.215311
+Detected Position (px): 467.5, 165.5
+Marked Position (px): 469.286, 165.714
+Time (ms): 28396
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+406
+1 markers detected!
+-1.89757 -1.94501 0.350479
+0.123703 -0.0593321 0.218612
+Detected Position (px): 466.5, 167.25
+Marked Position (px): 466, 168
+Time (ms): 28447
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+407
+1 markers detected!
+-1.76304 -1.7597 0.292275
+0.124385 -0.0576737 0.22377
+Detected Position (px): 464.75, 170.25
+Marked Position (px): 466.333, 170.667
+Time (ms): 28492
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+408
+1 markers detected!
+-1.96619 -1.98999 0.215776
+0.12556 -0.0563441 0.227204
+Detected Position (px): 463.75, 173
+Marked Position (px): 465, 173.25
+Time (ms): 28540
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+409
+1 markers detected!
+-1.74723 -1.72288 0.271428
+0.126751 -0.0553411 0.231874
+Detected Position (px): 463, 175
+Marked Position (px): 464.5, 175.5
+Time (ms): 28585
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+410
+1 markers detected!
+-1.69236 -1.71973 0.401126
+0.125035 -0.0535438 0.229619
+Detected Position (px): 462.75, 176.5
+Marked Position (px): 464.333, 176.667
+Time (ms): 28651
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+411
+1 markers detected!
+-1.91145 -1.99552 0.346124
+0.1276 -0.0533256 0.234113
+Detected Position (px): 462.5, 178.25
+Marked Position (px): 464.333, 178.667
+Time (ms): 28696
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+412
+1 markers detected!
+-1.97418 -2.0517 0.323432
+0.127474 -0.0516413 0.234349
+Detected Position (px): 462.25, 180.25
+Marked Position (px): 464.5, 181
+Time (ms): 28743
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+413
+1 markers detected!
+-1.95292 -1.99698 0.236381
+0.128746 -0.0503617 0.2374
+Detected Position (px): 462, 182.25
+Marked Position (px): 465, 183
+Time (ms): 28796
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+414
+1 markers detected!
+-1.72532 -1.73275 0.293053
+0.129456 -0.0486406 0.237877
+Detected Position (px): 463, 184
+Marked Position (px): 464.5, 184.5
+Time (ms): 28843
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+415
+1 markers detected!
+-1.68478 -1.67187 0.313543
+0.13013 -0.0467134 0.237131
+Detected Position (px): 464.25, 186
+Marked Position (px): 465.667, 186.333
+Time (ms): 28895
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+416
+1 markers detected!
+-1.68918 -1.71875 0.390639
+0.132497 -0.0463828 0.239179
+Detected Position (px): 465.5, 187
+Marked Position (px): 467.286, 187.714
+Time (ms): 28946
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+417
+1 markers detected!
+-1.69131 -1.7179 0.396228
+0.133375 -0.0446138 0.239074
+Detected Position (px): 466.5, 189
+Marked Position (px): 468.5, 189.5
+Time (ms): 29008
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+418
+1 markers detected!
+-1.6911 -1.72204 0.362735
+0.136534 -0.0431002 0.241579
+Detected Position (px): 468.25, 191.25
+Marked Position (px): 470, 191.75
+Time (ms): 29048
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+419
+1 markers detected!
+-1.69587 -1.71584 0.407743
+0.136002 -0.041071 0.238516
+Detected Position (px): 469.5, 193
+Marked Position (px): 471.5, 193.5
+Time (ms): 29096
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+420
+1 markers detected!
+-1.68842 -1.68482 0.373342
+0.136832 -0.0391051 0.237399
+Detected Position (px): 471, 195
+Marked Position (px): 472.667, 195.333
+Time (ms): 29145
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+421
+1 markers detected!
+-1.98455 -2.10387 0.364631
+0.136726 -0.0373537 0.232631
+Detected Position (px): 473, 196.75
+Marked Position (px): 477, 197
+Time (ms): 29191
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+422
+1 markers detected!
+-1.74157 -1.81473 0.468854
+0.138245 -0.0366301 0.233535
+Detected Position (px): 474.5, 197.5
+Marked Position (px): 476.333, 197.667
+Time (ms): 29244
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+423
+1 markers detected!
+-1.7095 -1.69584 0.314357
+0.134954 -0.0350355 0.225902
+Detected Position (px): 475.75, 197.75
+Marked Position (px): 477.5, 198.167
+Time (ms): 29291
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+424
+1 markers detected!
+-1.74886 -1.74798 0.340122
+0.136025 -0.0349428 0.225879
+Detected Position (px): 476.75, 198
+Marked Position (px): 478.5, 198.5
+Time (ms): 29343
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+425
+1 markers detected!
+-1.77837 -1.76373 0.28991
+0.13325 -0.0344252 0.218163
+Detected Position (px): 478.5, 197.25
+Marked Position (px): 480.5, 197.5
+Time (ms): 29399
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+426
+1 markers detected!
+-1.70328 -1.75281 0.458723
+0.132175 -0.0352935 0.213366
+Detected Position (px): 480.5, 195.5
+Marked Position (px): 480, 196
+Time (ms): 29450
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+427
+1 markers detected!
+-1.76062 -1.77063 0.38045
+0.131013 -0.0354612 0.20646
+Detected Position (px): 483.5, 194
+Marked Position (px): 484.5, 194.5
+Time (ms): 29497
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+428
+1 markers detected!
+-1.81191 -1.74743 0.231688
+0.129494 -0.035217 0.200722
+Detected Position (px): 485.5, 193
+Marked Position (px): 486.8, 193.6
+Time (ms): 29545
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+429
+1 markers detected!
+-1.79493 -1.76193 0.360988
+0.129144 -0.0351332 0.196617
+Detected Position (px): 488, 192.5
+Marked Position (px): 489.286, 192.714
+Time (ms): 29593
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+430
+1 markers detected!
+-1.71976 -1.72578 0.500046
+0.127268 -0.0343417 0.191243
+Detected Position (px): 490, 192.5
+Marked Position (px): 491.5, 192.625
+Time (ms): 29646
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+431
+1 markers detected!
+-1.80485 -1.74702 0.290529
+0.127733 -0.0337079 0.187671
+Detected Position (px): 492.75, 192.5
+Marked Position (px): 495.125, 193
+Time (ms): 29694
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+432
+1 markers detected!
+-1.94388 -1.92626 0.274349
+0.125925 -0.032611 0.181433
+Detected Position (px): 495, 193
+Marked Position (px): 496.714, 193.143
+Time (ms): 29741
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+433
+1 markers detected!
+-1.81321 -1.80818 0.421092
+0.125254 -0.0315175 0.179127
+Detected Position (px): 496.5, 194
+Marked Position (px): 498.5, 194
+Time (ms): 29805
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+434
+1 markers detected!
+-1.88713 -1.82743 0.297204
+0.122477 -0.0299793 0.173238
+Detected Position (px): 497.75, 194.75
+Marked Position (px): 499.667, 195.222
+Time (ms): 29849
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+435
+1 markers detected!
+-1.87705 -1.81097 0.297848
+0.118886 -0.0282629 0.166955
+Detected Position (px): 498.75, 195.75
+Marked Position (px): 501.125, 196.125
+Time (ms): 29897
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+436
+1 markers detected!
+-1.95399 -1.89745 0.289279
+0.117166 -0.0272741 0.162747
+Detected Position (px): 500, 196.5
+Marked Position (px): 501.778, 196.556
+Time (ms): 29945
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+437
+1 markers detected!
+-1.9111 -1.85327 0.327669
+0.115256 -0.0263628 0.159094
+Detected Position (px): 501, 197
+Marked Position (px): 503.125, 197.125
+Time (ms): 29996
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+438
+1 markers detected!
+-1.90637 -1.80765 0.236705
+0.114098 -0.0254446 0.156012
+Detected Position (px): 502.25, 197.5
+Marked Position (px): 504.545, 197.636
+Time (ms): 30043
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+439
+1 markers detected!
+-1.84722 -1.74417 0.305306
+0.111761 -0.0244526 0.151675
+Detected Position (px): 503.5, 198
+Marked Position (px): 505.5, 198.1
+Time (ms): 30089
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+440
+1 markers detected!
+-1.88842 -1.77355 0.225995
+0.109906 -0.0238101 0.147501
+Detected Position (px): 504.75, 198
+Marked Position (px): 507.2, 198.6
+Time (ms): 30138
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+441
+1 markers detected!
+-1.91113 -1.82566 0.296753
+0.108228 -0.0234715 0.144061
+Detected Position (px): 505.75, 198
+Marked Position (px): 508, 198.3
+Time (ms): 30205
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+442
+1 markers detected!
+-1.91109 -1.77361 0.229668
+0.105114 -0.0227855 0.138729
+Detected Position (px): 506.75, 197.5
+Marked Position (px): 509.2, 197.5
+Time (ms): 30257
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+443
+1 markers detected!
+-1.86216 -1.80246 0.402118
+0.103485 -0.0226029 0.136029
+Detected Position (px): 507.5, 197.5
+Marked Position (px): 509.9, 197.4
+Time (ms): 30305
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+444
+1 markers detected!
+-1.89916 -1.79752 0.275043
+0.100088 -0.0214714 0.130696
+Detected Position (px): 508, 197.75
+Marked Position (px): 510.5, 198
+Time (ms): 30352
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+445
+1 markers detected!
+-1.91466 -1.82799 0.271754
+0.0985435 -0.0209847 0.128038
+Detected Position (px): 508.5, 198
+Marked Position (px): 511.2, 198.5
+Time (ms): 30402
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+446
+1 markers detected!
+-1.89773 -1.78642 0.273082
+0.095204 -0.0198558 0.123908
+Detected Position (px): 508.25, 198.75
+Marked Position (px): 511.364, 198.636
+Time (ms): 30440
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+447
+1 markers detected!
+-1.89393 -1.78028 0.273739
+0.0941543 -0.0193235 0.122072
+Detected Position (px): 508.75, 199.25
+Marked Position (px): 511.5, 199.5
+Time (ms): 30489
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+448
+1 markers detected!
+-1.89526 -1.78321 0.275317
+0.092771 -0.0188458 0.120677
+Detected Position (px): 508.25, 199.75
+Marked Position (px): 511.923, 199.769
+Time (ms): 30554
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+449
+1 markers detected!
+-1.87666 -1.74842 0.265672
+0.0922693 -0.0181434 0.119708
+Detected Position (px): 508.75, 200.75
+Marked Position (px): 511.455, 200.636
+Time (ms): 30600
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+450
+1 markers detected!
+-1.91476 -1.77845 0.247061
+0.0932931 -0.0180382 0.121167
+Detected Position (px): 508.5, 201.5
+Marked Position (px): 512, 201.643
+Time (ms): 30653
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+451
+1 markers detected!
+-1.87226 -1.72749 0.239851
+0.0967749 -0.0174639 0.125731
+Detected Position (px): 509, 203.75
+Marked Position (px): 512.154, 204.385
+Time (ms): 30696
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+452
+1 markers detected!
+-1.9383 -1.75925 0.154158
+0.098708 -0.0158719 0.128424
+Detected Position (px): 508.75, 207.5
+Marked Position (px): 515, 208
+Time (ms): 30749
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+453
+1 markers detected!
+-1.95816 -1.76724 0.118851
+0.10187 -0.0148135 0.134498
+Detected Position (px): 507, 210.75
+Marked Position (px): 509.5, 211
+Time (ms): 30798
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+454
+1 markers detected!
+-1.96105 -1.74683 0.0708095
+0.104375 -0.014436 0.141332
+Detected Position (px): 503.75, 212.5
+Marked Position (px): 506, 212.75
+Time (ms): 30840
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+455
+1 markers detected!
+-1.99144 -1.81083 0.13267
+0.111708 -0.0158015 0.154862
+Detected Position (px): 500.75, 212.75
+Marked Position (px): 503.125, 213.125
+Time (ms): 30897
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+456
+1 markers detected!
+-2.0024 -1.82615 0.113066
+0.115229 -0.0156345 0.16313
+Detected Position (px): 498, 214.25
+Marked Position (px): 499.5, 214.375
+Time (ms): 30951
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+457
+1 markers detected!
+-2.02911 -1.7743 0.00991692
+0.117509 -0.0143865 0.168917
+Detected Position (px): 496, 216.75
+Marked Position (px): 497.5, 217.5
+Time (ms): 31002
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+458
+1 markers detected!
+-1.99812 -1.77325 0.0532465
+0.118447 -0.0123989 0.173348
+Detected Position (px): 493.75, 220.25
+Marked Position (px): 495.5, 220.333
+Time (ms): 31049
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+458
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+458
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+1 markers detected!
+-2.03446 -1.661 -0.128316
+0.118307 -0.00265295 0.178212
+Detected Position (px): 490, 234.75
+Marked Position (px): 491.5, 234
+Time (ms): 31196
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+459
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+460
+1 markers detected!
+-2.07526 -1.77264 -0.0149464
+0.118086 0.0167435 0.187221
+Detected Position (px): 482.75, 262.75
+Marked Position (px): 484.5, 261.5
+Time (ms): 32047
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+461
+1 markers detected!
+-2.07481 -1.81493 0.0303565
+0.118244 0.0156432 0.187503
+Detected Position (px): 482.75, 261.25
+Marked Position (px): 484.5, 260.5
+Time (ms): 32104
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+462
+1 markers detected!
+-2.07869 -1.82526 0.0362649
+0.118223 0.014961 0.188188
+Detected Position (px): 482.25, 260.25
+Marked Position (px): 483.2, 259.4
+Time (ms): 32152
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+463
+1 markers detected!
+-2.06022 -1.80726 0.0337954
+0.118364 0.0145191 0.189206
+Detected Position (px): 481.75, 259.5
+Marked Position (px): 483.286, 258.714
+Time (ms): 32199
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+1 markers detected!
+-2.05809 -1.8556 0.0307748
+0.117281 0.0136894 0.188106
+Detected Position (px): 481.25, 258.5
+Marked Position (px): 483.286, 257.714
+Time (ms): 32248
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+464
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+465
+1 markers detected!
+-2.05767 -2.05848 0.20268
+0.110628 0.0285929 0.192526
+Detected Position (px): 469.75, 279.5
+Marked Position (px): 471.5, 279.833
+Time (ms): 33352
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+466
+1 markers detected!
+-2.09349 -2.10169 0.115831
+0.108948 0.0284538 0.19043
+Detected Position (px): 469, 279.75
+Marked Position (px): 470.2, 280.2
+Time (ms): 33402
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+467
+1 markers detected!
+-2.09809 -2.07077 0.177127
+0.108651 0.0292273 0.192607
+Detected Position (px): 467.25, 280.5
+Marked Position (px): 471, 281
+Time (ms): 33451
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+467
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+468
+1 markers detected!
+-2.12271 -2.04415 0.169423
+0.107177 0.0292448 0.194544
+Detected Position (px): 464.25, 280.25
+Marked Position (px): 465.8, 280.6
+Time (ms): 33544
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+469
+1 markers detected!
+-2.1175 -2.05267 0.179611
+0.105847 0.0286266 0.194462
+Detected Position (px): 462.75, 279.5
+Marked Position (px): 464.5, 280
+Time (ms): 33595
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+470
+1 markers detected!
+-2.14664 -2.05669 0.194616
+0.104665 0.0275734 0.195432
+Detected Position (px): 460.75, 278
+Marked Position (px): 462.5, 278.5
+Time (ms): 33661
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+471
+1 markers detected!
+-2.12852 -2.03854 0.190322
+0.10267 0.0263936 0.193345
+Detected Position (px): 459.75, 276.75
+Marked Position (px): 461.286, 277.143
+Time (ms): 33709
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+472
+1 markers detected!
+-2.16349 -2.05119 0.154569
+0.101865 0.0260338 0.193665
+Detected Position (px): 458.5, 276.25
+Marked Position (px): 459.875, 276.875
+Time (ms): 33753
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+1 markers detected!
+-2.16782 -2.05676 0.144789
+0.100468 0.0260376 0.194104
+Detected Position (px): 456.5, 276.25
+Marked Position (px): 458.333, 277
+Time (ms): 33802
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+473
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+1 markers detected!
+-2.17654 -2.00101 0.18182
+0.086928 0.027698 0.205307
+Detected Position (px): 433.5, 277.25
+Marked Position (px): 435, 277.5
+Time (ms): 34205
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+474
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+475
+1 markers detected!
+2.10236 2.24332 0.454017
+0.0828096 0.0357752 0.190188
+Detected Position (px): 435.25, 291.5
+Marked Position (px): 436.5, 292.5
+Time (ms): 35257
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+476
+1 markers detected!
+-2.16565 -2.22117 -0.206724
+0.083927 0.0366099 0.1963
+Detected Position (px): 433.5, 291.25
+Marked Position (px): 435.286, 291.714
+Time (ms): 35303
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+477
+1 markers detected!
+2.21091 2.26243 0.255025
+0.0823607 0.0362001 0.192957
+Detected Position (px): 433.25, 291.5
+Marked Position (px): 434.5, 292
+Time (ms): 35354
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+478
+1 markers detected!
+-2.20018 -2.19478 -0.25151
+0.0833175 0.0378421 0.199404
+Detected Position (px): 431, 292.25
+Marked Position (px): 433.125, 292
+Time (ms): 35401
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+478
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+479
+1 markers detected!
+2.21819 2.21333 0.165359
+0.0811916 0.0370228 0.196589
+Detected Position (px): 429.75, 292
+Marked Position (px): 431.286, 292.571
+Time (ms): 35498
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+480
+1 markers detected!
+2.23463 2.22816 0.182533
+0.0808248 0.0375262 0.195186
+Detected Position (px): 430, 293
+Marked Position (px): 431.5, 293.667
+Time (ms): 35546
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+481
+1 markers detected!
+2.24972 2.25399 0.168918
+0.0802879 0.0382628 0.196281
+Detected Position (px): 428.75, 293.75
+Marked Position (px): 430.5, 294.5
+Time (ms): 35614
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+482
+1 markers detected!
+-2.17136 -2.11116 -0.143278
+0.0792685 0.0389157 0.197768
+Detected Position (px): 426.75, 294.25
+Marked Position (px): 428.5, 294.5
+Time (ms): 35657
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+483
+1 markers detected!
+-2.17859 -2.05954 -0.113435
+0.0783653 0.0400278 0.19999
+Detected Position (px): 424.5, 295.25
+Marked Position (px): 425.5, 295.5
+Time (ms): 35709
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+484
+1 markers detected!
+2.37572 2.21678 0.0319454
+0.0774944 0.0404106 0.201787
+Detected Position (px): 422.5, 295.5
+Marked Position (px): 424.2, 296
+Time (ms): 35756
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+485
+1 markers detected!
+2.36884 2.19252 -0.013284
+0.0764292 0.0409083 0.202006
+Detected Position (px): 421, 296.25
+Marked Position (px): 422.6, 296.8
+Time (ms): 35800
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+486
+1 markers detected!
+2.25859 2.13611 0.0515528
+0.0742606 0.0402705 0.19769
+Detected Position (px): 420, 296.75
+Marked Position (px): 422.2, 297.4
+Time (ms): 35850
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+487
+1 markers detected!
+2.25542 2.14328 0.027567
+0.074175 0.0407886 0.199575
+Detected Position (px): 419, 297
+Marked Position (px): 421.286, 297.714
+Time (ms): 35896
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+488
+1 markers detected!
+2.23851 2.1564 0.0584316
+0.073267 0.040666 0.198042
+Detected Position (px): 418.5, 297.25
+Marked Position (px): 420.8, 297.6
+Time (ms): 35945
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+489
+1 markers detected!
+2.23397 2.13983 0.0557284
+0.0720403 0.0404223 0.196151
+Detected Position (px): 417.75, 297.5
+Marked Position (px): 419.5, 298
+Time (ms): 36014
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+490
+1 markers detected!
+2.24709 2.14087 0.0265641
+0.0711473 0.0411248 0.196286
+Detected Position (px): 416.5, 298.5
+Marked Position (px): 418.4, 299.2
+Time (ms): 36061
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+491
+1 markers detected!
+2.24142 2.12973 0.0507571
+0.0698807 0.0419943 0.194594
+Detected Position (px): 415.5, 300.25
+Marked Position (px): 416.5, 300.5
+Time (ms): 36107
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+492
+1 markers detected!
+2.2326 2.12545 0.0514543
+0.0684985 0.0433729 0.194699
+Detected Position (px): 413.5, 302.25
+Marked Position (px): 414.667, 302.667
+Time (ms): 36159
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+493
+1 markers detected!
+2.268 2.13785 -0.00563629
+0.068151 0.0450543 0.197614
+Detected Position (px): 411.75, 303.75
+Marked Position (px): 413.286, 304.429
+Time (ms): 36201
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+494
+1 markers detected!
+2.2485 2.12195 -0.0163774
+0.0657564 0.044799 0.19535
+Detected Position (px): 409.5, 304.25
+Marked Position (px): 411.5, 305.375
+Time (ms): 36250
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+495
+1 markers detected!
+2.28137 2.11553 0.0178774
+0.0636859 0.0455379 0.193942
+Detected Position (px): 407.25, 305.75
+Marked Position (px): 409, 306.333
+Time (ms): 36299
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+496
+1 markers detected!
+2.29723 2.11177 -0.081198
+0.0627199 0.0462923 0.194542
+Detected Position (px): 405.75, 306.75
+Marked Position (px): 407.286, 307.571
+Time (ms): 36370
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+497
+1 markers detected!
+2.28805 2.09983 -0.0507558
+0.0608908 0.0471303 0.193061
+Detected Position (px): 403.75, 308.5
+Marked Position (px): 405.5, 309.25
+Time (ms): 36408
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+498
+1 markers detected!
+2.2429 2.08506 -0.0652229
+0.0593372 0.0480841 0.192423
+Detected Position (px): 401.75, 310.25
+Marked Position (px): 403.875, 310.75
+Time (ms): 36456
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+499
+1 markers detected!
+2.29123 2.09569 -0.0149447
+0.0575325 0.0485665 0.18988
+Detected Position (px): 400.25, 311.75
+Marked Position (px): 402.5, 312.5
+Time (ms): 36507
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+500
+1 markers detected!
+2.22991 2.0806 -0.0726263
+0.0566765 0.0496161 0.189125
+Detected Position (px): 399.25, 313.75
+Marked Position (px): 401.286, 314.714
+Time (ms): 36552
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+501
+1 markers detected!
+2.23648 2.09164 -0.0642736
+0.0555877 0.0507716 0.18825
+Detected Position (px): 398, 315.75
+Marked Position (px): 399.875, 316.75
+Time (ms): 36605
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+502
+1 markers detected!
+2.22135 2.06844 -0.134742
+0.054856 0.0523155 0.189303
+Detected Position (px): 396.5, 317.75
+Marked Position (px): 396, 319
+Time (ms): 36652
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+503
+1 markers detected!
+2.21532 2.05878 -0.0970204
+0.0524729 0.0530984 0.187965
+Detected Position (px): 393.5, 319.5
+Marked Position (px): 395.5, 320.5
+Time (ms): 36703
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+504
+1 markers detected!
+2.22009 2.04086 -0.129732
+0.0505864 0.053341 0.186069
+Detected Position (px): 391.5, 320.75
+Marked Position (px): 393.5, 321.5
+Time (ms): 36772
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+505
+1 markers detected!
+2.19963 2.01328 -0.19204
+0.0491054 0.0541311 0.187001
+Detected Position (px): 389, 321.75
+Marked Position (px): 391, 322.5
+Time (ms): 36811
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+506
+1 markers detected!
+2.20129 2.00237 -0.152782
+0.0470879 0.0536696 0.184924
+Detected Position (px): 386.75, 322
+Marked Position (px): 389.125, 323
+Time (ms): 36856
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+507
+1 markers detected!
+2.17443 1.9711 -0.204577
+0.0455324 0.0536867 0.185571
+Detected Position (px): 384.25, 322
+Marked Position (px): 386.667, 323
+Time (ms): 36912
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+508
+1 markers detected!
+2.20478 1.96616 -0.199157
+0.0435385 0.0531999 0.185163
+Detected Position (px): 381.5, 321.5
+Marked Position (px): 384.2, 322.4
+Time (ms): 36952
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+509
+1 markers detected!
+2.18154 1.94062 -0.203435
+0.0413516 0.0521254 0.183602
+Detected Position (px): 378.75, 320.75
+Marked Position (px): 381.5, 321.5
+Time (ms): 37000
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+510
+1 markers detected!
+2.2567 1.96526 -0.195037
+0.0399273 0.0519256 0.184408
+Detected Position (px): 376.5, 320
+Marked Position (px): 379.333, 320.778
+Time (ms): 37048
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+511
+1 markers detected!
+2.18616 1.89981 -0.192107
+0.0376712 0.0509489 0.18353
+Detected Position (px): 373.25, 319.25
+Marked Position (px): 375.5, 319.75
+Time (ms): 37098
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+512
+1 markers detected!
+2.20506 1.90543 -0.143201
+0.035557 0.0505695 0.182712
+Detected Position (px): 370.25, 319
+Marked Position (px): 372.5, 319.5
+Time (ms): 37165
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+513
+1 markers detected!
+2.21575 1.88391 -0.133112
+0.0338629 0.0501072 0.182411
+Detected Position (px): 367.75, 318.5
+Marked Position (px): 369.875, 318.875
+Time (ms): 37209
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+514
+1 markers detected!
+2.22625 1.86248 -0.123186
+0.0321699 0.0496349 0.182059
+Detected Position (px): 365.25, 318
+Marked Position (px): 367.5, 318.5
+Time (ms): 37260
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+515
+1 markers detected!
+2.22489 1.86054 -0.0199393
+0.02968 0.048644 0.18012
+Detected Position (px): 361.75, 317.25
+Marked Position (px): 365.125, 318
+Time (ms): 37304
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+516
+1 markers detected!
+2.24299 1.86014 0.0435165
+0.0276693 0.0487625 0.17921
+Detected Position (px): 358.75, 317.75
+Marked Position (px): 361.5, 318.5
+Time (ms): 37351
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+517
+1 markers detected!
+2.21341 1.84351 -0.0554522
+0.0253816 0.0492303 0.180417
+Detected Position (px): 355, 318.25
+Marked Position (px): 357.5, 318.5
+Time (ms): 37400
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+518
+1 markers detected!
+2.2494 1.87024 0.0252873
+0.0227897 0.04931 0.178532
+Detected Position (px): 351.25, 319
+Marked Position (px): 353.667, 319.667
+Time (ms): 37449
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+519
+1 markers detected!
+2.2091 1.86563 0.0827513
+0.0205373 0.0498889 0.180225
+Detected Position (px): 347.25, 319.25
+Marked Position (px): 349.5, 320.5
+Time (ms): 37501
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+520
+1 markers detected!
+2.20853 1.85572 0.0404103
+0.0181397 0.0505156 0.180412
+Detected Position (px): 343.5, 320.25
+Marked Position (px): 345.5, 320.5
+Time (ms): 37562
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+521
+1 markers detected!
+2.23075 1.8794 0.0954102
+0.0156936 0.0503446 0.17953
+Detected Position (px): 339.75, 320.25
+Marked Position (px): 341.778, 321
+Time (ms): 37610
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+522
+1 markers detected!
+2.23523 1.87195 0.0563707
+0.0132968 0.0503439 0.179746
+Detected Position (px): 336, 320.25
+Marked Position (px): 338.5, 321
+Time (ms): 37661
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+523
+1 markers detected!
+2.28236 1.89737 0.130325
+0.0110708 0.0505622 0.179473
+Detected Position (px): 332.5, 320.5
+Marked Position (px): 335.5, 321.5
+Time (ms): 37710
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+524
+1 markers detected!
+2.25073 1.86639 0.0922174
+0.00910117 0.0514689 0.180808
+Detected Position (px): 329.25, 321.5
+Marked Position (px): 331.5, 322
+Time (ms): 37756
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+525
+1 markers detected!
+2.25285 1.8693 0.138052
+0.0068221 0.0508718 0.177985
+Detected Position (px): 325.75, 321.75
+Marked Position (px): 328.5, 322.333
+Time (ms): 37800
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+526
+1 markers detected!
+2.26095 1.85565 0.123651
+0.00481177 0.0514652 0.179602
+Detected Position (px): 322.5, 322
+Marked Position (px): 325.125, 322.875
+Time (ms): 37848
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+527
+1 markers detected!
+2.25374 1.85156 0.137866
+0.0023104 0.051471 0.179647
+Detected Position (px): 318.5, 322
+Marked Position (px): 321.125, 323
+Time (ms): 37917
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+528
+1 markers detected!
+2.29941 1.86332 0.0951995
+0.000317568 0.0512493 0.178737
+Detected Position (px): 315.5, 322
+Marked Position (px): 317.5, 323
+Time (ms): 37962
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+529
+1 markers detected!
+2.32049 1.90009 0.120836
+-0.00268482 0.0508648 0.178188
+Detected Position (px): 310.75, 321.5
+Marked Position (px): 313.5, 322.5
+Time (ms): 38011
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+530
+1 markers detected!
+2.23006 1.81988 0.0542549
+-0.00505046 0.0509103 0.181617
+Detected Position (px): 307, 320.5
+Marked Position (px): 309.333, 321.111
+Time (ms): 38059
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+531
+1 markers detected!
+2.23693 1.79671 0.0720006
+-0.00786605 0.049791 0.181096
+Detected Position (px): 302.5, 319
+Marked Position (px): 305.333, 320.222
+Time (ms): 38110
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+532
+1 markers detected!
+2.27665 1.85231 0.115699
+-0.0103291 0.0489462 0.179143
+Detected Position (px): 298.5, 318.25
+Marked Position (px): 301.333, 319.111
+Time (ms): 38153
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+533
+1 markers detected!
+2.21047 1.78557 0.0729359
+-0.0124775 0.0485039 0.179384
+Detected Position (px): 295, 317.75
+Marked Position (px): 297.5, 318.5
+Time (ms): 38203
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+534
+1 markers detected!
+2.20731 1.79641 0.174965
+-0.01497 0.0481983 0.178359
+Detected Position (px): 290.75, 317.5
+Marked Position (px): 293.125, 318
+Time (ms): 38247
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+535
+1 markers detected!
+2.20551 1.80783 0.130756
+-0.0177434 0.0480065 0.178827
+Detected Position (px): 286.5, 317
+Marked Position (px): 289.333, 317.778
+Time (ms): 38324
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+536
+1 markers detected!
+2.16297 1.76938 0.121231
+-0.0202069 0.047812 0.180213
+Detected Position (px): 282.75, 316.25
+Marked Position (px): 285.5, 317.375
+Time (ms): 38359
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+537
+1 markers detected!
+2.21836 1.8273 0.217575
+-0.0223125 0.0473189 0.177944
+Detected Position (px): 279, 316
+Marked Position (px): 281.333, 316.778
+Time (ms): 38411
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+538
+1 markers detected!
+2.17157 1.81232 0.15193
+-0.0245208 0.0470106 0.18026
+Detected Position (px): 276, 314.75
+Marked Position (px): 278.286, 315.857
+Time (ms): 38458
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+539
+1 markers detected!
+2.19186 1.86388 0.244042
+-0.0262184 0.0457773 0.179073
+Detected Position (px): 273, 313
+Marked Position (px): 275.333, 314
+Time (ms): 38507
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+541
+2 markers detected!
+2.05524 1.75051 0.11224
+-0.027724 0.043686 0.179395
+Detected Position (px): 270.5, 310.25
+Marked Position (px): 272.5, 311.5
+Time (ms): 38559
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+542
+1 markers detected!
+2.06993 1.79593 0.257642
+-0.0293459 0.0428427 0.180252
+Detected Position (px): 268, 308.25
+Marked Position (px): 269.5, 309
+Time (ms): 38605
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+543
+1 markers detected!
+2.01855 1.78144 0.153581
+-0.0315717 0.041582 0.180972
+Detected Position (px): 264.75, 306.25
+Marked Position (px): 269, 307
+Time (ms): 38648
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+544
+1 markers detected!
+2.00725 1.79372 0.218868
+-0.0335452 0.0405117 0.180765
+Detected Position (px): 261.5, 304.5
+Marked Position (px): 263.667, 305.667
+Time (ms): 38719
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+546
+2 markers detected!
+2.04064 1.84811 0.204455
+-0.0355166 0.0396174 0.180536
+Detected Position (px): 258.5, 303
+Marked Position (px): 263, 304
+Time (ms): 38766
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+547
+1 markers detected!
+2.03905 1.87443 0.253894
+-0.0378774 0.0387554 0.181188
+Detected Position (px): 255, 301.25
+Marked Position (px): 257.333, 302.222
+Time (ms): 38809
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+548
+1 markers detected!
+2.02038 1.87665 0.291971
+-0.0392234 0.0376347 0.180988
+Detected Position (px): 252.75, 299.5
+Marked Position (px): 254.4, 300.2
+Time (ms): 38855
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+549
+1 markers detected!
+2.01555 1.90124 0.33882
+-0.0409266 0.0367155 0.181501
+Detected Position (px): 250.25, 297.75
+Marked Position (px): 252.286, 298.857
+Time (ms): 38904
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+550
+1 markers detected!
+1.88006 1.77018 0.24964
+-0.041702 0.0343642 0.179451
+Detected Position (px): 248, 295.25
+Marked Position (px): 249.333, 296.222
+Time (ms): 38955
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+551
+1 markers detected!
+1.94949 1.85632 0.250856
+-0.0442943 0.0334856 0.182271
+Detected Position (px): 245.25, 292.75
+Marked Position (px): 247.125, 293.75
+Time (ms): 39002
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+552
+1 markers detected!
+1.93461 1.85465 0.340276
+-0.0456521 0.0324044 0.182886
+Detected Position (px): 243.25, 290.75
+Marked Position (px): 244.5, 291
+Time (ms): 39056
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+553
+1 markers detected!
+1.88742 1.81353 0.319905
+-0.046893 0.0304481 0.182322
+Detected Position (px): 241, 288
+Marked Position (px): 243.125, 289
+Time (ms): 39116
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+554
+1 markers detected!
+1.87549 1.81015 0.382095
+-0.0475812 0.0294143 0.181482
+Detected Position (px): 239.5, 286.5
+Marked Position (px): 241.333, 287.111
+Time (ms): 39163
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+555
+1 markers detected!
+1.89989 1.85812 0.388418
+-0.0490976 0.0289886 0.183235
+Detected Position (px): 238, 285.25
+Marked Position (px): 239.875, 285.625
+Time (ms): 39209
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+556
+1 markers detected!
+1.90321 1.85945 0.39433
+-0.0490999 0.0277149 0.183346
+Detected Position (px): 238, 283.25
+Marked Position (px): 239.333, 284.111
+Time (ms): 39257
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+557
+1 markers detected!
+1.88116 1.84742 0.395384
+-0.0492052 0.0260756 0.184606
+Detected Position (px): 238.25, 280.5
+Marked Position (px): 239.5, 281.5
+Time (ms): 39304
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+558
+1 markers detected!
+1.82002 1.80541 0.344367
+-0.0488962 0.0239525 0.184428
+Detected Position (px): 238.5, 277.5
+Marked Position (px): 240.6, 278.8
+Time (ms): 39354
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+559
+1 markers detected!
+1.81807 1.81952 0.444905
+-0.0481016 0.0221907 0.183688
+Detected Position (px): 239.25, 274.75
+Marked Position (px): 240.4, 275.2
+Time (ms): 39411
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+560
+1 markers detected!
+1.86922 1.861 0.40118
+-0.0480134 0.020024 0.184324
+Detected Position (px): 239.75, 271.25
+Marked Position (px): 241.333, 272.222
+Time (ms): 39472
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+561
+1 markers detected!
+1.82926 1.83545 0.442121
+-0.0473564 0.0177766 0.182922
+Detected Position (px): 240, 268
+Marked Position (px): 241.5, 269
+Time (ms): 39516
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+562
+1 markers detected!
+1.82064 1.84222 0.473165
+-0.0477899 0.0161571 0.184091
+Detected Position (px): 239.75, 265.25
+Marked Position (px): 241.333, 266.111
+Time (ms): 39565
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+563
+1 markers detected!
+1.85519 1.86943 0.479924
+-0.0483123 0.0145884 0.185943
+Detected Position (px): 239.75, 262.5
+Marked Position (px): 241.125, 263
+Time (ms): 39610
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+564
+1 markers detected!
+1.86052 1.90363 0.464654
+-0.0489175 0.0133793 0.186828
+Detected Position (px): 239.25, 260.5
+Marked Position (px): 240.5, 260.5
+Time (ms): 39656
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+565
+1 markers detected!
+1.82976 1.87506 0.474936
+-0.0483609 0.012404 0.185005
+Detected Position (px): 239.25, 259.25
+Marked Position (px): 240.5, 260
+Time (ms): 39704
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+566
+1 markers detected!
+1.81754 1.86306 0.492388
+-0.0474651 0.0120279 0.18428
+Detected Position (px): 240.25, 258.75
+Marked Position (px): 241.333, 259
+Time (ms): 39752
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+567
+1 markers detected!
+1.84709 1.89996 0.468989
+-0.0478803 0.0111366 0.184973
+Detected Position (px): 240, 257.25
+Marked Position (px): 241.714, 258
+Time (ms): 39803
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+568
+1 markers detected!
+1.87313 1.92968 0.521921
+-0.0478109 0.0104865 0.185932
+Detected Position (px): 240.5, 256
+Marked Position (px): 241.714, 257
+Time (ms): 39868
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+569
+1 markers detected!
+1.90243 1.98603 0.584755
+-0.0477516 0.0101946 0.186832
+Detected Position (px): 241, 255.25
+Marked Position (px): 242.2, 255.4
+Time (ms): 39915
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+570
+1 markers detected!
+1.904 1.98597 0.596514
+-0.048213 0.0087157 0.189974
+Detected Position (px): 241.5, 252.75
+Marked Position (px): 242.4, 253.2
+Time (ms): 39962
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+571
+1 markers detected!
+1.9679 2.06418 0.575851
+-0.0484485 0.00623883 0.192349
+Detected Position (px): 242.25, 248.75
+Marked Position (px): 242.333, 249.667
+Time (ms): 40012
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+572
+1 markers detected!
+1.96544 2.08882 0.606499
+-0.0472977 0.00359902 0.191217
+Detected Position (px): 243.5, 244.75
+Marked Position (px): 244.5, 245.5
+Time (ms): 40057
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+573
+1 markers detected!
+1.96895 2.10344 0.584968
+-0.0475104 0.000433245 0.196886
+Detected Position (px): 245.25, 240
+Marked Position (px): 244.5, 241.5
+Time (ms): 40105
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+574
+1 markers detected!
+2.02987 2.14307 0.441035
+-0.0473485 -0.00189649 0.199823
+Detected Position (px): 246.75, 236.75
+Marked Position (px): 246.5, 237.5
+Time (ms): 40154
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+575
+1 markers detected!
+2.06781 2.21395 0.574619
+-0.0468073 -0.00284966 0.198166
+Detected Position (px): 247, 235
+Marked Position (px): 247.714, 236
+Time (ms): 40199
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+576
+1 markers detected!
+2.01789 2.14601 0.521336
+-0.0460889 -0.00389977 0.200043
+Detected Position (px): 248.5, 233.75
+Marked Position (px): 251, 235
+Time (ms): 40263
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+577
+1 markers detected!
+2.04399 2.14475 0.443643
+-0.045549 -0.00525366 0.202845
+Detected Position (px): 250.25, 232
+Marked Position (px): 253, 233
+Time (ms): 40315
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+578
+1 markers detected!
+2.05031 2.2153 0.663726
+-0.0430991 -0.00663878 0.2009
+Detected Position (px): 253, 229.5
+Marked Position (px): 252.5, 230.5
+Time (ms): 40365
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+579
+1 markers detected!
+2.01132 2.19688 0.774964
+-0.0411862 -0.00872198 0.202461
+Detected Position (px): 256, 226.5
+Marked Position (px): 0, 0
+Time (ms): 40411
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+580
+1 markers detected!
+1.99913 2.19414 0.768714
+-0.0396342 -0.0112339 0.20643
+Detected Position (px): 259.25, 223.25
+Marked Position (px): 0, 0
+Time (ms): 40459
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+581
+1 markers detected!
+2.0759 2.28392 0.796248
+-0.0371442 -0.0141098 0.208836
+Detected Position (px): 263.5, 219.25
+Marked Position (px): 0, 0
+Time (ms): 40508
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+582
+1 markers detected!
+2.1005 2.26714 0.769204
+-0.0349327 -0.0175454 0.213001
+Detected Position (px): 267.5, 215
+Marked Position (px): 0, 0
+Time (ms): 40562
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+582
+[WARNING] Wrong parameter type in (MyImageProcess::drawArucoSingle) !
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+583
+1 markers detected!
+2.07303 2.28062 0.731269
+-0.0310818 -0.0253576 0.218165
+Detected Position (px): 273.75, 205.25
+Marked Position (px): 0, 0
+Time (ms): 40667
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+584
+1 markers detected!
+2.02669 2.2163 0.731657
+-0.0291003 -0.0278908 0.216836
+Detected Position (px): 276, 201.75
+Marked Position (px): 276, 202
+Time (ms): 40713
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+585
+1 markers detected!
+-2.04264 -2.2544 -0.710751
+-0.0282879 -0.0297389 0.218393
+Detected Position (px): 277.5, 199.5
+Marked Position (px): 278, 199.5
+Time (ms): 40760
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+586
+1 markers detected!
+2.01744 2.22932 0.710301
+-0.0264282 -0.0306695 0.217872
+Detected Position (px): 279.75, 198.25
+Marked Position (px): 280.333, 198.333
+Time (ms): 40812
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+587
+1 markers detected!
+2.06947 2.27649 0.613417
+-0.0259264 -0.0309188 0.222158
+Detected Position (px): 281.25, 198.75
+Marked Position (px): 282.5, 199
+Time (ms): 40859
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+588
+1 markers detected!
+2.04703 2.22262 0.490344
+-0.0239207 -0.0296347 0.220019
+Detected Position (px): 283.5, 200.25
+Marked Position (px): 284.5, 200.5
+Time (ms): 40910
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+589
+1 markers detected!
+-2.0412 -2.24712 -0.674997
+-0.0222693 -0.0282332 0.218768
+Detected Position (px): 285.5, 201.5
+Marked Position (px): 286.5, 202
+Time (ms): 40960
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+590
+1 markers detected!
+2.106 2.30992 0.613727
+-0.0214068 -0.0267909 0.219062
+Detected Position (px): 286.75, 203.5
+Marked Position (px): 288.5, 204.5
+Time (ms): 41021
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+591
+1 markers detected!
+2.07744 2.28156 0.560738
+-0.0205529 -0.024729 0.218526
+Detected Position (px): 287.75, 206.25
+Marked Position (px): 289, 207
+Time (ms): 41064
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+592
+1 markers detected!
+2.11149 2.32973 0.580197
+-0.0200093 -0.0221312 0.216133
+Detected Position (px): 288.25, 209.25
+Marked Position (px): 0, 0
+Time (ms): 41111
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+593
+1 markers detected!
+2.09162 2.31364 0.608802
+-0.0186788 -0.0191669 0.212415
+Detected Position (px): 289.5, 212.75
+Marked Position (px): 290.5, 213
+Time (ms): 41159
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+594
+1 markers detected!
+-2.02988 -2.26561 -0.613985
+-0.0175073 -0.0169006 0.209665
+Detected Position (px): 290.75, 215.5
+Marked Position (px): 292.667, 216.333
+Time (ms): 41207
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+595
+1 markers detected!
+-1.95658 -2.22201 -0.63124
+-0.0159203 -0.0153073 0.206953
+Detected Position (px): 292.75, 217.25
+Marked Position (px): 294.5, 218
+Time (ms): 41256
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+596
+1 markers detected!
+-1.90815 -2.20617 -0.630447
+-0.0136049 -0.0139363 0.203654
+Detected Position (px): 295.75, 218.75
+Marked Position (px): 296.5, 219
+Time (ms): 41304
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+597
+1 markers detected!
+-1.91187 -2.21623 -0.646622
+-0.0116736 -0.0132721 0.204142
+Detected Position (px): 298.5, 219.75
+Marked Position (px): 300.5, 221
+Time (ms): 41352
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+598
+1 markers detected!
+-1.92198 -2.21695 -0.698971
+-0.00884614 -0.0135725 0.201336
+Detected Position (px): 302.25, 219
+Marked Position (px): 302, 219.5
+Time (ms): 41420
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+599
+1 markers detected!
+-1.9082 -2.21725 -0.683325
+-0.00669521 -0.0159806 0.203346
+Detected Position (px): 305.5, 215.75
+Marked Position (px): 0, 0
+Time (ms): 41465
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+600
+1 markers detected!
+-1.90437 -2.19487 -0.630273
+-0.00479697 -0.0196357 0.20843
+Detected Position (px): 308.5, 211.25
+Marked Position (px): 308, 213
+Time (ms): 41512
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+601
+1 markers detected!
+-1.92497 -2.21069 -0.622952
+-0.00229886 -0.0235706 0.211106
+Detected Position (px): 312, 206.25
+Marked Position (px): 312, 208
+Time (ms): 41570
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+602
+1 markers detected!
+2.17024 2.46092 0.585946
+-0.00042885 -0.0273983 0.212262
+Detected Position (px): 314.75, 201.25
+Marked Position (px): 0, 0
+Time (ms): 41608
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+603
+1 markers detected!
+2.17827 2.46661 0.592514
+0.00102501 -0.0295749 0.212151
+Detected Position (px): 316.75, 198.25
+Marked Position (px): 316, 199
+Time (ms): 41656
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+604
+1 markers detected!
+2.08966 2.37077 0.0724982
+0.00188367 -0.032994 0.21843
+Detected Position (px): 318, 195.75
+Marked Position (px): 318.5, 196
+Time (ms): 41713
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+605
+1 markers detected!
+2.15984 2.42276 0.483132
+0.0027648 -0.0334411 0.218277
+Detected Position (px): 319, 194.5
+Marked Position (px): 320.333, 194.667
+Time (ms): 41752
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+606
+1 markers detected!
+-2.00462 -2.25713 -0.280631
+0.00364886 -0.0344281 0.219767
+Detected Position (px): 320.25, 193.75
+Marked Position (px): 321, 193.75
+Time (ms): 41819
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+607
+1 markers detected!
+2.07778 2.32347 -0.0812281
+0.00523907 -0.0347942 0.219049
+Detected Position (px): 322.5, 193.75
+Marked Position (px): 323.2, 194.2
+Time (ms): 41864
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+608
+1 markers detected!
+-2.04307 -2.335 0.139395
+0.00825619 -0.0354153 0.221883
+Detected Position (px): 326.5, 193.5
+Marked Position (px): 326.5, 193.5
+Time (ms): 41912
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+609
+1 markers detected!
+-2.09091 -2.35531 -0.0739359
+0.0109861 -0.0365666 0.226199
+Detected Position (px): 329.5, 192.75
+Marked Position (px): 330.5, 193.5
+Time (ms): 41966
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+610
+1 markers detected!
+-2.12652 -2.36962 0.0251209
+0.013716 -0.035766 0.226557
+Detected Position (px): 333, 194
+Marked Position (px): 334.333, 194.667
+Time (ms): 42008
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+611
+1 markers detected!
+-1.9221 -2.13183 -0.30911
+0.0175017 -0.0361576 0.234248
+Detected Position (px): 337.25, 194.25
+Marked Position (px): 338, 194.5
+Time (ms): 42056
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+612
+1 markers detected!
+-1.87162 -2.06594 -0.355055
+0.0207127 -0.0353756 0.229902
+Detected Position (px): 341.75, 194.25
+Marked Position (px): 343.286, 194.714
+Time (ms): 42105
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+613
+1 markers detected!
+-1.86082 -2.07113 -0.253281
+0.0237777 -0.0352117 0.229551
+Detected Position (px): 345.75, 194.5
+Marked Position (px): 346.8, 194.8
+Time (ms): 42172
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+614
+1 markers detected!
+2.0871 2.31951 0.099563
+0.0271073 -0.0359194 0.233043
+Detected Position (px): 349, 195
+Marked Position (px): 350.5, 195.5
+Time (ms): 42216
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+615
+1 markers detected!
+-1.90528 -2.1076 -0.263688
+0.0297575 -0.0356655 0.238481
+Detected Position (px): 351.75, 195.75
+Marked Position (px): 352.5, 196
+Time (ms): 42265
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+616
+1 markers detected!
+2.07675 2.3465 -0.0144602
+0.0327787 -0.0364434 0.241207
+Detected Position (px): 354.75, 196
+Marked Position (px): 355.5, 196.5
+Time (ms): 42315
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+617
+1 markers detected!
+-2.06695 -2.31682 0.0273173
+0.0351346 -0.0367584 0.244864
+Detected Position (px): 357, 196.25
+Marked Position (px): 358.333, 196.667
+Time (ms): 42367
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+618
+1 markers detected!
+-2.06816 -2.32632 0.010727
+0.0366075 -0.0362984 0.243105
+Detected Position (px): 359, 196.5
+Marked Position (px): 360.5, 197
+Time (ms): 42408
+[WARNING] Uncomplete function (MyImageProcess::Process) is used!
+619
+1 markers detected!
+2.04803 2.34575 -0.123571
+0.0385518 -0.0358977 0.240686
+Detected Position (px): 361.75, 196.75
+Marked Position (px): 362, 197
+Time (ms): 42456
